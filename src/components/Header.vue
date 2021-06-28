@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div id="background-wrap" class="fixed opacity-50 inset-x-0 pt-50 bg-blue-500">
+        <div id="background-wrap" class="fixed opacity-50 top-0 left-0 right-0 pt-50 bg-blue-500">
             <div class="x1">
                 <div class="cloud"></div>
             </div>

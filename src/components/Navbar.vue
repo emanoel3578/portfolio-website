@@ -12,8 +12,8 @@
       <div class="flex">
         <ul class="flex list-none">
           <li class="mx-2">Página inicial</li>
-          <li class="mx-2">Projetos</li>
           <li class="mx-2">Serviços</li>
+          <li class="mx-2">Projetos</li>
           <li class="mx-2">Planos</li>
           <li class="mx-2">Sobre</li>
           <li class="mx-2">Contato</li>

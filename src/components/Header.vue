@@ -23,12 +23,13 @@
         </div>
     </div>
 
-    <div class="flex text-center items-center">
-        <div>
-            <p>Sint reprehenderit minim laborum nostrud mollit. Dolor ea et laboris eiusmod exercitation anim est voluptate. Consequat aute dolore id sunt. Cillum qui sint incididunt reprehenderit eiusmod non laborum exercitation nisi commodo ut. Est sint quis occaecat in exercitation deserunt veniam non ullamco aute nostrud elit exercitation labore. Ex qui exercitation irure officia minim. Dolor dolor et duis quis irure.</p>
+    <div class="flex text-center items-center text-white px-40 pt-20 justify-between">
+        <div class="w-2/4 border-2">
+            <p class="text-3xl">Sint reprehenderit minim laborum nostrud mollit. Dolor ea et laboris.</p>
+            <p class="text-xl">Sint reprehenderit minim laborum nostrud mollit. Dolor ea et laboris eiusmod exercitation anim est voluptate. Consequat aute dolore id sunt. Cillum qui sint incididunt reprehenderit eiusmod non laborum exercitation nisi commodo ut. Est sint quis occaecat in exercitation deserunt veniam non ullamco aute nostrud elit exercitation labore. Ex qui exercitation irure officia minim. Dolor dolor et duis quis irure.</p>
         </div>
 
-        <div>
+        <div class="border-2">
             <img src="img/brain.png" class="">
         </div>
     </div>

@@ -40,9 +40,42 @@
             </div>
         </div>
 
-        <div class="flex bg-gray-100">
-            <div>
-                <p>Serviços</p>
+        <div class="flex bg-gray-100 justify-center w-full">
+            <div class="flex w-3/5 gap-6 items-center">
+                <div class="text-center">
+                    <p class="text-5xl">Serviços</p>
+                </div>
+
+                <div class="flex text-center">
+                    <div class="flex flex-col items-end my-5">
+                        <div class="w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
+                            <img src="img/mobileicon.png" class="mx-auto my-0 h-10">
+                            <p class="font-bold">Criação de Sites e Lojas Virtuais MOBILE</p>
+                            <p>Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
+                        </div>
+
+                        <div class="w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
+                            <img src="img/computericon.png" class="mx-auto my-0 h-10">
+                            <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
+                            <p>Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
+                        </div>
+                    </div>
+
+
+                    <div class="flex flex-col items-end my-5">
+                        <div class="w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
+                            <img src="img/supporticon.png" class="mx-auto my-0 h-10">
+                            <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
+                            <p>Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
+                        </div>
+
+                        <div class="w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
+                            <img src="img/moneyicon.png" class="mx-auto my-0 h-10">
+                            <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
+                            <p>Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

@@ -30,7 +30,7 @@
         </div>
 
         <div class="">
-            <img src="img/brain.png" class="">
+            <img src="img/brain.png" class="animate-bounce">
         </div>
     </div>
 </template>

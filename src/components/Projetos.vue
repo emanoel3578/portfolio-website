@@ -2,10 +2,10 @@
     <div class="">
         <div class="my-5">
             <div class="text-center">
-                <p class="font-bold text-4xl mb-2">Projetos recentes:</p>
+                <p class="font-bold text-4xl mb-10">Projetos recentes:</p>
             </div>
 
-            <div class="flex justify-around border-b-4 border-grey-200 w-3/5 mx-auto my-0">
+            <div class="flex justify-around border-b-4 border-grey-200 w-3/5 mx-auto my-0 pb-5 mb-5">
                 <div class="text-center" @click="sites = true, aplicativos = false, tecnologias = false">
                     <img class="cursor-pointer" src="img/website.png">
                     <p class="cursor-pointer text-blue-600 hover:text-black">Criação de sites</p>
@@ -22,7 +22,7 @@
         </div>
 
         <transition name="fade">
-            <div v-show="sites">
+            <div v-show="sites" class="">
                 <div class="flex w-3/5 mx-auto my-0 items-center mb-5">
                     <div class="flex rounded-full py-3 px-6 bg-blue-500 w-full">
                         <img class="" src="img/computer.png">
@@ -112,7 +112,7 @@
             </div>
         </transition>
 
-        <div class="flex justify-around border-b-4 border-grey-200 w-3/5 mx-auto mb-5"></div>
+        <div class="flex justify-around border-b-4 border-grey-200 w-3/5 mx-auto mb-10"></div>
 
     </div>
 </template>

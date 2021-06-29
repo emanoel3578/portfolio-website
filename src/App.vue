@@ -4,6 +4,7 @@
   <Servicos />
   <Projetos />
   <Planos />
+  <Sobrenos />
 </template>
 
 <script>
@@ -12,6 +13,7 @@ import Header from './components/Header.vue'
 import Servicos from './components/Servicos.vue'
 import Projetos from './components/Projetos.vue'
 import Planos from './components/Planos.vue'
+import Sobrenos from './components/Sobrenos.vue'
 
 export default {
   name: 'App',
@@ -21,6 +23,7 @@ export default {
     Servicos,
     Projetos,
     Planos,
+    Sobrenos,
   }
 }
 </script>

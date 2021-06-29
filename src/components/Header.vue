@@ -23,12 +23,12 @@
         </div>
     </div>
 
-    <div class="flex text-center items-end text-white px-40 pt-20 justify-between">
+    <div class="flex text-center items-end text-white px-40 pt-20 justify-between font-kanit">
         <div class="w-2/4 slide-top">
             <p class="text-3xl">Sint reprehenderit minim laborum nostrud mollit. Dolor ea et laboris.</p>
             <p class="text-xl">Sint reprehenderit minim laborum nostrud mollit. Dolor ea et laboris eiusmod exercitation anim est voluptate. Consequat aute dolore id sunt. Cillum qui sint incididunt reprehenderit eiusmod non laborum exercitation nisi commodo ut. Est sint quis occaecat in exercitation deserunt veniam non ullamco aute nostrud elit exercitation labore. Ex qui exercitation irure officia minim. Dolor dolor et duis quis irure.</p>
 
-            <p class="bg-white rounded-3xl text-gray-800 w-2/5 p-4 mx-auto my-0 text-2xl mt-8 cursor-pointer">Faça seu orçamento gratuito agora !</p>
+            <p class="bg-white rounded-3xl text-gray-800 w-2/5 p-4 mx-auto my-0 text-2xl mt-8 cursor-pointer font-kanit">Faça seu orçamento gratuito agora !</p>
         </div>
 
         <div class="">

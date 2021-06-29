@@ -48,13 +48,13 @@
 
                 <div class="flex text-center">
                     <div class="flex flex-col items-end my-5">
-                        <div class="w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
+                        <div class="p-5 w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
                             <img src="img/mobileicon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold">Criação de Sites e Lojas Virtuais MOBILE</p>
                             <p>Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
                         </div>
 
-                        <div class="w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
+                        <div class="p-5 w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
                             <img src="img/computericon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
                             <p>Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
@@ -63,13 +63,13 @@
 
 
                     <div class="flex flex-col items-end my-5">
-                        <div class="w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
+                        <div class="p-5 w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
                             <img src="img/supporticon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
                             <p>Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
                         </div>
 
-                        <div class="w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
+                        <div class="p-5 w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
                             <img src="img/moneyicon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
                             <p>Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>

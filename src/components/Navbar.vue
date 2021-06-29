@@ -1,6 +1,6 @@
 <template>
 
-    <div class="absolute opacity-50 h-16 bg-blue-500 w-full rounded-lg border-blue">
+    <div class="fixed opacity-50 h-16 bg-blue-500 w-full rounded-lg border-blue">
     </div>
 
     <div class="fixed flex justify-between w-full items-center text-white text-xl">
@@ -11,12 +11,12 @@
 
       <div class="flex">
         <ul class="flex list-none">
-          <li class="mx-2">Página inicial</li>
-          <li class="mx-2">Serviços</li>
-          <li class="mx-2">Projetos</li>
-          <li class="mx-2">Planos</li>
-          <li class="mx-2">Sobre</li>
-          <li class="mx-2">Contato</li>
+          <li class="mx-2 rounded-full p-2 hover:text-black hover:bg-blue-300">Página inicial</li>
+          <li class="mx-2 rounded-full p-2 hover:text-black hover:bg-blue-300">Serviços</li>
+          <li class="mx-2 rounded-full p-2 hover:text-black hover:bg-blue-300">Projetos</li>
+          <li class="mx-2 rounded-full p-2 hover:text-black hover:bg-blue-300">Planos</li>
+          <li class="mx-2 rounded-full p-2 hover:text-black hover:bg-blue-300">Sobre</li>
+          <li class="mx-2 rounded-full p-2 hover:text-black hover:bg-blue-300">Contato</li>
         </ul>
       </div>
     </div>

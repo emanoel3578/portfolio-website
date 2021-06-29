@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div id="background-wrap" class="fixed opacity-50 inset-x-0 pt-50 bg-blue-500">
+        <div id="background-wrap" class="absolute opacity-50 top-0 left-0 right-0 pt-50 bg-blue-500">
             <div class="x1">
                 <div class="cloud"></div>
             </div>
@@ -24,12 +24,12 @@
     </div>
 
     <div class="flex text-center items-center text-white px-40 pt-20 justify-between">
-        <div class="w-2/4 border-2">
+        <div class="w-2/4">
             <p class="text-3xl">Sint reprehenderit minim laborum nostrud mollit. Dolor ea et laboris.</p>
             <p class="text-xl">Sint reprehenderit minim laborum nostrud mollit. Dolor ea et laboris eiusmod exercitation anim est voluptate. Consequat aute dolore id sunt. Cillum qui sint incididunt reprehenderit eiusmod non laborum exercitation nisi commodo ut. Est sint quis occaecat in exercitation deserunt veniam non ullamco aute nostrud elit exercitation labore. Ex qui exercitation irure officia minim. Dolor dolor et duis quis irure.</p>
         </div>
 
-        <div class="border-2">
+        <div class="">
             <img src="img/brain.png" class="">
         </div>
     </div>

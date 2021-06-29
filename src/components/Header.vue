@@ -23,10 +23,12 @@
         </div>
     </div>
 
-    <div class="flex text-center items-center text-white px-40 pt-20 justify-between">
-        <div class="w-2/4">
+    <div class="flex text-center items-end text-white px-40 pt-20 justify-between">
+        <div class="w-2/4 slide-top">
             <p class="text-3xl">Sint reprehenderit minim laborum nostrud mollit. Dolor ea et laboris.</p>
             <p class="text-xl">Sint reprehenderit minim laborum nostrud mollit. Dolor ea et laboris eiusmod exercitation anim est voluptate. Consequat aute dolore id sunt. Cillum qui sint incididunt reprehenderit eiusmod non laborum exercitation nisi commodo ut. Est sint quis occaecat in exercitation deserunt veniam non ullamco aute nostrud elit exercitation labore. Ex qui exercitation irure officia minim. Dolor dolor et duis quis irure.</p>
+
+            <p class="bg-white rounded-3xl text-gray-800 w-2/5 p-4 mx-auto my-0 text-2xl mt-8 cursor-pointer">Faça seu orçamento gratuito agora !</p>
         </div>
 
         <div class="">
@@ -46,6 +48,33 @@ export default {
 #background-wrap {
     z-index: -1;
 }
+
+.slide-top {
+	-webkit-animation: slide-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+    animation: slide-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+@-webkit-keyframes slide-top {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  100% {
+    -webkit-transform: translateY(-100px);
+            transform: translateY(-100px);
+  }
+}
+@keyframes slide-top {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  100% {
+    -webkit-transform: translateY(-100px);
+            transform: translateY(-100px);
+  }
+}
+
 
 @-webkit-keyframes animateCloud
 {

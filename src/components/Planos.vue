@@ -3,8 +3,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-    <div class="bg-blue-400 font-sans">
-        <div class="font-semibold text-3xl text-white text-center my-4">Planos perfeitos pra o seu negocio:</div>
+    <div class="bg-blue-400 font-sans pb-20 pt-10">
+        <div class="font-semibold text-3xl text-white text-center pb-5">Planos perfeitos pra o seu negocio:</div>
 
         <div class="flex justify-center items-center">
 

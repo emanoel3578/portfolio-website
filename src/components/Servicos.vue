@@ -43,7 +43,7 @@
         <div class="flex bg-gray-100 justify-center w-full">
             <div class="flex w-3/5 gap-6 items-center">
                 <div class="text-center">
-                    <p class="text-5xl font-poppins font-semibold">Serviços</p>
+                    <p class="text-5xl font-kanit font-bold">Serviços</p>
                 </div>
 
                 <div class="flex text-center">
@@ -51,13 +51,13 @@
                         <div class="p-5 w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white scale-up-center">
                             <img src="img/mobileicon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold ">Criação de Sites e Lojas Virtuais MOBILE</p>
-                            <p class="font-poppins font-semibold">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
+                            <p class="font-kanit">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
                         </div>
 
                         <div class="p-5 w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
                             <img src="img/computericon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
-                            <p class="font-poppins font-semibold">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
+                            <p class="font-kanit">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
                         </div>
                     </div>
 
@@ -66,13 +66,13 @@
                         <div class="p-5 w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
                             <img src="img/supporticon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
-                            <p class="font-poppins font-semibold">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
+                            <p class="font-kanit">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
                         </div>
 
                         <div class="p-5 w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white">
                             <img src="img/moneyicon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
-                            <p class="font-poppins font-semibold">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
+                            <p class="font-kanit">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
                         </div>
                     </div>
                 </div>

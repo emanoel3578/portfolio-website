@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-    <div class="bg-blue-400 font-sans pb-20 pt-10">
+    <div class="bg-blue-400 font-sans font-kanit pb-20 pt-10">
         <div class="font-semibold text-3xl text-white text-center pb-5">Planos perfeitos pra o seu negocio:</div>
 
         <div class="flex justify-center items-center">
@@ -18,7 +18,7 @@
                     <a class="bg-blue-700 font-semibold px-4 py-1 rounded-full uppercase text-xs">Popular</a>
                 </div>
 
-                <a class="font-bold text-3xl text-white text-center pb-3">Plano ideal</a>
+                <a class="font-bold font-kanit text-3xl text-white text-center pb-3">Plano ideal</a>
                 <div class="flex border-b-4 border-grey-200 items-center justify-center text-white">
                     <a class="text-sm">$</a>
                     <a class="text-2xl font-bold">599</a>
@@ -52,11 +52,11 @@
             <div>
                 <div class="flex flex-col bg-white border-4 shadow-xl transform scale-110 rounded-3xl border-black px-5 pb-6 m-5">
 
-                <a class="font-semibold text-3xl text-black text-center pb-3 pt-5">Completo</a>
+                <a class="font-semibold font-kanit text-3xl text-black text-center pb-3 pt-5">Completo</a>
                 <div class="flex border-b-4 border-grey-200 items-center justify-center text-black">
                     <a class="text-sm">$</a>
                     <a class="text-2xl font-bold">599</a>
-                    <a class="text-sm">/Site ou programa</a>
+                    <a class="text-sm font-kanit">/Site ou programa</a>
                 </div>
 
                 <div class="flex flex-col">

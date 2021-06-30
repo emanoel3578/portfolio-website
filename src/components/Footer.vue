@@ -1,5 +1,5 @@
 <template lang="">
-    <div>
+    <div class="font-kanit">
         <div class="bg-gray-800 flex justify-center">
             <div class="flex justify-around w-3/5 py-3 items-center">
                 <div class="flex flex-col ">

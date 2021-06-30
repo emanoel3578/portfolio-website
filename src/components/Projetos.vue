@@ -22,7 +22,7 @@
         </div>
 
         <transition name="fade">
-            <div v-show="sites" class="">
+            <div v-if="sites" class="">
                 <div class="flex w-3/5 mx-auto my-0 items-center mb-5">
                     <div class="flex rounded-full bg-blue-500 w-full">
                         <img class="p-5" src="img/computer.png">
@@ -64,7 +64,7 @@
         </transition>
 
         <transition name="fade">
-            <div v-show="aplicativos">
+            <div v-if="aplicativos">
                 <div class="flex w-3/5 mx-auto my-0  items-center mb-5">
                     <div class="flex rounded-full bg-blue-500 w-full items-center">
                         <img class="mx-auto my-0" src="img/computer.png">
@@ -89,7 +89,7 @@
         </transition>
 
         <transition name="fade">
-            <div v-show="tecnologias">
+            <div v-if="tecnologias">
                 <div class="flex flex-col w-3/5 mx-auto my-0 items-center mb-5">
                     <div class="flex items-center mx-auto my-3">
                         <img src="img/tec1.png" class="h-14 mx-10">
@@ -139,16 +139,7 @@ export default {
   opacity:1;
 }
 .fade-enter-active{
-  transition:all 10s ease;
-}
-.fade-leave-from{
-  opacity:1;
-}
-.fade-leave-to{
-  opacity:0;
-}
-.fade-leave-active{
-  transition:all 1s ease;
+  transition:all 3s ease;
 }
 
 

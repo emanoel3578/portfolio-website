@@ -9,7 +9,8 @@
                         <div class="absolute inset-0 bg-gradient-to-l from-cyan-400 to-blue-light-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:rotate-6 sm:rounded-3xl"></div>
                         <div class="flex flex-col relative bg-white shadow-lg sm:rounded-3xl sm:p-10 scale-up-center">
                             <img src="img/mobile.png" class="mb-3 w-12 h-12 mx-auto my-0 ">
-                            <p class="font-kanit ">Consequat Lorem culpa irure aliqua veniam. Elit et excepteur aute veniam commodo proident magna ad ullamco ullamco esse. Dolor nostrud aute fugiat laborum.</p>
+                            <p class="font-kanit text-center text-lg text-blue-900">Desenvolvimento de aplicativos</p>
+                            <p class="font-kanit text-center text-gray-500">Aplicativos mobile por meio das mais modernas tecnologias para celular e tablets.</p>
                         </div>
                     </div>
                 </div>
@@ -21,7 +22,8 @@
                         <div class="absolute inset-0 bg-gradient-to-l from-cyan-400 to-blue-light-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:rotate-6 sm:rounded-3xl"></div>
                         <div class="flex flex-col relative bg-white shadow-lg sm:rounded-3xl sm:p-10 scale-up-center">
                             <img src="img/system.png" class="mb-3 w-12 h-12 mx-auto my-0">
-                            <p class="font-kanit">Consequat Lorem culpa irure aliqua veniam. Elit et excepteur aute veniam commodo proident magna ad ullamco ullamco esse. Dolor nostrud aute fugiat laborum.</p>
+                            <p class="font-kanit text-center text-lg text-blue-900">Desenvolvimento de Sistemas</p>
+                            <p class="font-kanit text-center text-gray-500">Desenvolvimento e integração de software, auxiliando também nas decisões referentes à infraestrutura de aplicações</p>
                         </div>
                     </div>
                 </div>
@@ -33,7 +35,8 @@
                         <div class="absolute inset-0 bg-gradient-to-l from-cyan-400 to-blue-light-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:rotate-6 sm:rounded-3xl"></div>
                         <div class="flex flex-col relative bg-white shadow-lg sm:rounded-3xl sm:p-10 scale-up-center">
                             <img src="img/box.png" class="mb-3 w-12 h-12 mx-auto my-0">
-                            <p class="font-kanit">Consequat Lorem culpa irure aliqua veniam. Elit et excepteur aute veniam commodo proident magna ad ullamco ullamco esse. Dolor nostrud aute fugiat laborum.</p>
+                            <p class="font-kanit text-center text-lg text-blue-900">Criamos Sistemas Sob medida</p>
+                            <p class="font-kanit text-center text-gray-500">Precisa de um sistema com funcionalidades específicas ? esse é o lugar certo.</p>
                         </div>
                     </div>
                 </div>

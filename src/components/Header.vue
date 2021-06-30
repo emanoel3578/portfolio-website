@@ -25,8 +25,8 @@
 
     <div class="flex text-center items-end text-white px-40 pt-20 justify-between font-kanit ">
         <div class="w-2/4 slide-top">
-            <p class="text-3xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Sint reprehenderit minim laborum nostrud mollit. Dolor ea et laboris.</p>
-            <p class="text-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Sint reprehenderit minim laborum nostrud mollit. Dolor ea et laboris eiusmod exercitation anim est voluptate. Consequat aute dolore id sunt. Cillum qui sint incididunt reprehenderit eiusmod non laborum exercitation nisi commodo ut. Est sint quis occaecat in exercitation deserunt veniam non ullamco aute nostrud elit exercitation labore. Ex qui exercitation irure officia minim. Dolor dolor et duis quis irure.</p>
+            <p class="text-4xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Quer impulsionar o seu negócio até o infinito ? 🚀</p>
+            <p class="text-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Somos uma empresa que está a dois anos no mercado de tecnologias, trazendo tudo do que a de mais novo para empresas de média, pequena e larga escala. Nossa equipe está disposta a mudar a forma como seu négocio funciona para que seu redimento cresca em até 500%.</p>
 
             <p class="bg-white rounded-3xl text-gray-800 w-2/5 p-4 mx-auto my-0 text-2xl mt-8 cursor-pointer font-kanit transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Faça seu orçamento gratuito agora !</p>
         </div>

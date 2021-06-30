@@ -109,23 +109,23 @@
 
         <transition name="fade">
             <div v-if="tecnologias">
-                <div class="flex flex-col w-3/5 mx-auto my-0 items-center mb-5">
-                    <div class="flex items-center mx-auto my-3">
-                        <img src="img/tec1.png" class="h-14 mx-10">
-                        <img src="img/tec2.png" class="h-12 mx-10">
-                        <img src="img/tec3.png" class="h-12 mx-10">
+                <div class="flex flex-col md:w-3/5 w-full mx-auto my-0 items-center mb-5">
+                    <div class="flex items-center md:mx-auto md:my-3">
+                        <img src="img/tec1.png" class="h-10 mr-3 md:h-14 md:mx-10">
+                        <img src="img/tec2.png" class="h-8 mr-3 md:h-12 md:mx-10">
+                        <img src="img/tec3.png" class="h-8 md:h-12 md:mx-10">
                     </div>
 
-                    <div class="flex items-center mx-auto my-3">
-                        <img src="img/tec4.png" class="h-12 mx-10">
-                        <img src="img/tec5.png" class="h-12 mx-10">
-                        <img src="img/tec6.png" class="h-20 mx-10">
+                    <div class="flex items-center md:mx-auto md:my-3">
+                        <img src="img/tec4.png" class="h-8 mr-3 md:h-12 md:mx-10">
+                        <img src="img/tec5.png" class="h-8 mr-3 md:h-12 md:mx-10">
+                        <img src="img/tec6.png" class="h-12 md:h-20 md:mx-10">
                     </div>
 
-                    <div class="flex items-center mx-auto my-3">
-                        <img src="img/tec7.png" class="h-16 mx-10">
-                        <img src="img/tec8.svg" class="h-8 mx-10">
-                        <img src="img/tec9.png" class="h-10 mx-10">
+                    <div class="flex items-center md:mx-auto md:my-3">
+                        <img src="img/tec7.png" class="h-12 mr-1 md:h-16 md:mx-10">
+                        <img src="img/tec8.svg" class="h-4 mr-3 md:h-8 md:mx-10">
+                        <img src="img/tec9.png" class="h-6 md:h-10 md:mx-10">
                     </div>
                 </div>
             </div>

@@ -43,21 +43,21 @@
             </div>
         </div>
 
-        <div id="servicosID" class="flex bg-gray-100 justify-center w-full">
-            <div class="flex w-3/5 gap-6 items-center">
+        <div id="servicosID" class="flex flex-col md:flex md:flex-row bg-gray-100 justify-center w-full">
+            <div class="flex flex-col md:flex md:flex-row md:w-3/5 gap-6 items-center">
                 <div class="text-center">
-                    <p class="text-5xl font-kanit font-bold">Serviços</p>
+                    <p class="text-5xl font-kanit pt-4 md:pt-0 md:font-semibold">Serviços</p>
                 </div>
 
                 <div class="flex text-center">
-                    <div class="flex flex-col items-end my-5">
-                        <div class="p-5 w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                    <div class="md:flex md:flex-col items-end my-5">
+                        <div class="p-5 md:w-4/5 rounded-full md:m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <img src="img/mobileicon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold ">Criação de Sites e Lojas Virtuais MOBILE</p>
                             <p class="font-kanit">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
                         </div>
 
-                        <div class="p-5 w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                        <div class="p-5 md:w-4/5 rounded-full md:m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <img src="img/computericon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
                             <p class="font-kanit">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
@@ -66,13 +66,13 @@
 
 
                     <div class="flex flex-col items-end my-5">
-                        <div class="p-5 w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                        <div class="p-5 md:w-4/5 rounded-full md:m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <img src="img/supporticon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
                             <p class="font-kanit">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
                         </div>
 
-                        <div class="p-5 w-4/5 rounded-full m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                        <div class="p-5 md:w-4/5 rounded-full md:m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <img src="img/moneyicon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
                             <p class="font-kanit">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>

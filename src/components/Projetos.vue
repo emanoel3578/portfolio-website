@@ -139,7 +139,7 @@ export default {
   opacity:1;
 }
 .fade-enter-active{
-  transition:all 5s ease;
+  transition:all 10s ease;
 }
 .fade-leave-from{
   opacity:1;

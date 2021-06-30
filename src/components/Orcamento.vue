@@ -2,9 +2,9 @@
     <div id="orcamentoID" class="invisible">
         <div class="font-kanit">
             <div class="fixed z-10 inset-0 bg-black opacity-50 mx-auto my-0"></div>
-            <div class="fixed z-10 md:inset-y-1/4 md:inset-x-1/3">
+            <div class="fixed z-10 top-14 md:inset-y-1/4 md:inset-x-1/3">
                 <div class="bg-gray-100 text-gray-500 rounded-3xl shadow-xl w-full overflow-hidden" style="max-width:1000px">
-                    <div class="flex pl-5 pt-2 bg-indigo-500" style="width: 35%;">
+                    <div class="flex pl-5 pt-2 bg-indigo-500 " style="width: 35%;">
                         <p class="text-5xl text-white cursor-pointer" @click="closeOrcamento()">X</p>
                     </div>
                     <div class="md:flex w-full">
@@ -13,7 +13,7 @@
                         </div>
                         <div class="w-full py-10 px-5 md:px-10">
                             <div class="text-center mb-10">
-                                <h1 class="font-bold text-3xl text-gray-900 mb-2 text-indigo-500">Receba seu orçamento !</h1>
+                                <h1 class="font-bold text-2xl md:text-3xl text-gray-900 mb-2 text-indigo-500">Receba seu orçamento !</h1>
                                 <p class="text-gray-600">Preencha os dados abaixo para que um de nossos especialistas possa preparar uma proposta personalizada para seu tipo de negócio</p>
                             </div>
                             <div>

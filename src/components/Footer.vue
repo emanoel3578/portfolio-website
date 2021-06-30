@@ -1,14 +1,14 @@
 <template lang="">
     <div class="font-kanit">
         <div class="bg-gray-800 flex justify-center">
-            <div class="flex justify-around w-3/5 py-3 items-center">
+            <div class="flex flex-col-reverse md:flex md:flex-row justify-around md:w-3/5 py-3 items-center">
                 <div class="flex flex-col ">
                     <p class="text-white text-sm text-center">
                         Copyright © 2021. Todos os direitos reservados.
                     </p>
 
-                    <p class="text-white text-sm">
-                        | Site Seguro Todo o conteúdo deste site é de uso exclusivo da Front Tech - CNPJ 21.118.421.468-98
+                    <p class="text-white text-center text-sm">
+                        Site Seguro Todo o conteúdo deste site é de uso exclusivo da Front Tech - CNPJ 21.118.421.468-98
                     </p>
                 </div>
 

@@ -1,12 +1,13 @@
 <template>
 
-    <div class="fixed opacity-50 h-16 bg-blue-500 w-screen md:w-full rounded-lg border-blue z-10">
+    <div class="fixed opacity-50 h-16 bg-blue-500 top-0 w-screen md:w-full rounded-lg border-blue z-10">
     </div>
 
-    <div class="fixed flex justify-between md:w-full items-center text-white text-xl z-10 font-kanit">
+    <div class="fixed w-screen md:w-full md:flex md:justify-between items-center text-white text-xl z-10 font-kanit">
       <div class="flex items-center pt-1">
-        <img src="img/logoNav.png" class="h-14 px-2">
-        <p class="text-2xl ml-10 md:ml-0 text-center">Front Tech</p>
+        <img src="img/logoNav.png" class="h-12 pt-2 px-2 md:h-14 md:pt-0 ">
+        <p class="text-2xl md:ml-0 mx-auto my-0">Front Tech</p>
+        <img src="img/hamburguer.png" class="pr-4 md:hidden">
       </div>
 
       <div class="flex hidden md:block">

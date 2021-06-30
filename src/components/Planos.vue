@@ -43,7 +43,7 @@
                     </div>
 
                     <div class="flex justify-center">
-                        <p class="p-2 rounded-3xl bg-white border-3 border-gray-100 cursor-pointer">
+                        <p @click="closeOrcamento()" class="p-2 rounded-3xl bg-white border-3 border-gray-100 cursor-pointer">
                             Adquirir orçamento !
                         </p>
                     </div>
@@ -83,7 +83,7 @@
                     </div>
 
                     <div class="flex justify-center">
-                        <p class="p-2 rounded-3xl bg-gray-800 text-white border-3 border-gray-100 cursor-pointer">
+                        <p @click="closeOrcamento()" class="p-2 rounded-3xl bg-gray-800 text-white border-3 border-gray-100 cursor-pointer">
                             Adquirir orçamento !
                         </p>
                     </div>
@@ -98,5 +98,10 @@
 <script>
 export default {
     name:"Planos",
+    methods: {
+        closeOrcamento () {
+            document.getElementById('orcamentoID').className = "visible"
+        }
+    }
 }
 </script>

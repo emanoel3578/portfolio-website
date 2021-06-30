@@ -1,6 +1,6 @@
 <template>
 
-    <div class="fixed opacity-50 h-16 bg-blue-500 w-full rounded-lg border-blue z-10">
+    <div class="fixed opacity-50 h-16 bg-blue-500 w-screen md:w-full rounded-lg border-blue z-10">
     </div>
 
     <div class="fixed flex justify-between md:w-full items-center text-white text-xl z-10 font-kanit">

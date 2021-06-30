@@ -32,7 +32,7 @@
             <p @click="closeOrcamento()" class="bg-white rounded-3xl text-gray-800 w-2/5 p-4 mx-auto my-0 text-2xl mt-8 cursor-pointer font-kanit transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Faça seu orçamento gratuito agora !</p>
         </div>
 
-        <div class="">
+        <div class="hidden md:block">
             <img src="img/brain.png" class="md:animate-bounce">
         </div>
     </div>

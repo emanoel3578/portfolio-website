@@ -6,7 +6,6 @@
   <Planos />
   <Sobrenos />
   <Footer />
-  <Orcamento />
 </template>
 
 <script>
@@ -17,7 +16,6 @@ import Projetos from './components/Projetos.vue'
 import Planos from './components/Planos.vue'
 import Sobrenos from './components/Sobrenos.vue'
 import Footer from './components/Footer.vue'
-import Orcamento from './components/Orcamento.vue'
 
 export default {
   name: 'App',
@@ -29,7 +27,6 @@ export default {
     Planos,
     Sobrenos,
     Footer,
-    Orcamento,
   }
 }
 </script>

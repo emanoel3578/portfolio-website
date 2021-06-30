@@ -1,4 +1,9 @@
 import { createApp } from 'vue'
+import Orcamento from './components/Orcamento.vue'
 import App from './App.vue'
 
-createApp(App).mount('#app')
+const app = createApp(App)
+
+app.component('Orcamento', Orcamento)
+app.mount('#app')
+

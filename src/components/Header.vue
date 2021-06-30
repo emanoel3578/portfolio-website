@@ -1,5 +1,6 @@
 <template>
     <div>
+        <Orcamento />
         <div id="background-wrap" class="absolute opacity-50 top-0 left-0 right-0 pt-50 bg-blue-500">
             <div class="x1">
                 <div class="cloud"></div>
@@ -28,7 +29,7 @@
             <p class="text-4xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Quer impulsionar o seu negócio até o infinito ? 🚀</p>
             <p class="text-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Somos uma empresa que está a dois anos no mercado de tecnologias, trazendo tudo do que a de mais novo para empresas de média, pequena e larga escala. Nossa equipe está disposta a mudar a forma como seu négocio funciona para que seu redimento cresca em até 500%.</p>
 
-            <p class="bg-white rounded-3xl text-gray-800 w-2/5 p-4 mx-auto my-0 text-2xl mt-8 cursor-pointer font-kanit transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Faça seu orçamento gratuito agora !</p>
+            <p @click="closeOrcamento()" class="bg-white rounded-3xl text-gray-800 w-2/5 p-4 mx-auto my-0 text-2xl mt-8 cursor-pointer font-kanit transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Faça seu orçamento gratuito agora !</p>
         </div>
 
         <div class="">
@@ -40,6 +41,15 @@
 <script>
 export default {
     name:"Header",
+    data () {
+        return {
+        }
+    },
+    methods: {
+        closeOrcamento () {
+            document.getElementById('orcamentoID').className = "visible"
+        }
+    }
 }
 
 </script>

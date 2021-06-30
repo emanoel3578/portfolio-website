@@ -8,11 +8,11 @@
             <div class="flex justify-around border-b-4 border-grey-200 w-3/5 mx-auto my-0 pb-5 mb-5 font-kanit">
                 <div class="text-center transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" @click="sites = true, aplicativos = false, tecnologias = false">
                     <img class="cursor-pointer" src="img/website.png">
-                    <p class="cursor-pointer text-blue-600 hover:text-black">Criação de sites</p>
+                    <p class="cursor-pointer text-blue-600 hover:text-black">Sites recentes</p>
                 </div>
                 <div class="text-center transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" @click="sites = false, aplicativos = true, tecnologias = false">
                     <img class="cursor-pointer" src="img/application.png">
-                    <p class="cursor-pointer text-blue-600 hover:text-black">Criação de Aplicativos</p>
+                    <p class="cursor-pointer text-blue-600 hover:text-black">Aplicativos recentes</p>
                 </div>
                 <div class="text-center transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" @click="sites = false, aplicativos = false, tecnologias = true">
                     <img class="cursor-pointer" src="img/program.png">

@@ -24,16 +24,16 @@
         </div>
     </div>
 
-    <div class="flex text-center items-end text-white px-40 pt-20 justify-between font-kanit ">
-        <div class="w-2/4 slide-top">
-            <p class="text-4xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Quer impulsionar o seu negócio até o infinito ? 🚀</p>
+    <div class="md:flex md:px-40 md:pt-20 text-center items-end text-white justify-between font-kanit ">
+        <div class="md:w-2/4 slide-top">
+            <p class="md:text-4xl sm:text-sm transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Quer impulsionar o seu negócio até o infinito ? 🚀</p>
             <p class="text-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Somos uma empresa que está a dois anos no mercado de tecnologias, trazendo tudo do que a de mais novo para empresas de média, pequena e larga escala. Nossa equipe está disposta a mudar a forma como seu négocio funciona para que seu redimento cresca em até 500%.</p>
 
             <p @click="closeOrcamento()" class="bg-white rounded-3xl text-gray-800 w-2/5 p-4 mx-auto my-0 text-2xl mt-8 cursor-pointer font-kanit transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Faça seu orçamento gratuito agora !</p>
         </div>
 
         <div class="">
-            <img src="img/brain.png" class="animate-bounce">
+            <img src="img/brain.png" class="md:animate-bounce">
         </div>
     </div>
 </template>

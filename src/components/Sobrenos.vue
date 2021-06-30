@@ -6,7 +6,7 @@
 
                 <div class="flex justify-around">
                     <div class="mx-20 flex flex-col">
-                        <div class="flex">
+                        <div class="flex transition duration-500 ease-in-out transform hover:-translate-y-2 hover:scale-110">
                             <img src="img/iury.jpg" class="border-4 rounded-full border-white">
                         </div>
 
@@ -18,7 +18,7 @@
                     </div>
 
                     <div class="mx-20 flex flex-col">
-                        <div class="flex">
+                        <div class="flex transition duration-500 ease-in-out transform hover:-translate-y-2 hover:scale-110">
                             <img src="img/manel.jpg" class="border-4 rounded-full border-white">
                         </div>
                         <div class="flex justify-center pt-2">
@@ -31,7 +31,7 @@
                     </div>
 
                     <div class="mx-20 flex flex-col">
-                        <div class="flex">
+                        <div class="flex transition duration-500 ease-in-out transform hover:-translate-y-2 hover:scale-110">
                             <img src="img/manel.jpg" class="border-4 rounded-full border-white">
                         </div>
                         <div class="flex justify-center pt-2">

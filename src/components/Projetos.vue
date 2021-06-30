@@ -24,8 +24,8 @@
         <transition name="fade">
             <div v-show="sites" class="">
                 <div class="flex w-3/5 mx-auto my-0 items-center mb-5">
-                    <div class="flex rounded-full py-3 px-6 bg-blue-500 w-full">
-                        <img class="" src="img/computer.png">
+                    <div class="flex rounded-full bg-blue-500 w-full">
+                        <img class="p-5" src="img/computer.png">
                     </div>
                     
                     <div class="flex flex-col">
@@ -45,7 +45,7 @@
             
                 <div class="flex w-3/5 mx-auto my-0  items-center mb-5">
                     <div class="flex rounded-full bg-blue-500 w-full">
-                        <img class="" src="img/computer.png">
+                        <img class="p-5" src="img/computer.png">
                     </div>
                     
                     <div class="flex flex-col">
@@ -139,7 +139,7 @@ export default {
   opacity:1;
 }
 .fade-enter-active{
-  transition:all 3s ease;
+  transition:all 5s ease;
 }
 .fade-leave-from{
   opacity:1;

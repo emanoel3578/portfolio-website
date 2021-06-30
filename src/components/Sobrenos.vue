@@ -1,5 +1,5 @@
 <template>
-    <div class="font-kanit">
+    <div class="font-kanit" id="sobrenosID">
         <div class="flex bg-gray-700 justify-center items-center">
             <div class="flex flex-col w-3/5 pb-10">
                 <p class="text-center text-white text-semibold text-3xl mb-8 mt-4">Sobre nossa equipe:</p>

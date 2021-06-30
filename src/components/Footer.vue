@@ -13,14 +13,14 @@
                 </div>
 
                 <div class="flex flex-col">
-                    <div class="flex text-white m-2">
+                    <div class="flex cursor-pointer  text-white m-2 transform scale-110 rounded-3xl border-black px-5 pb-6 m-1 transition duration-500 ease-in-out transform hover:-translate-y-4 hover:scale-110">
                         <img src="img/facebook.png">
                         <p class="pr-4">Facebook</p>
                         <img src="img/instagram.png">
                         <p>Instagram</p>
                     </div>
 
-                    <div class="flex text-white m-2">
+                    <div class="flex cursor-pointer text-white m-2 transform scale-110 rounded-3xl border-black px-5 pb-6 m-1 transition duration-500 ease-in-out transform hover:-translate-y-4 hover:scale-110">
                         <img src="img/whatss.png">
                         <p class="pr-4">Whatsapp</p>
                         <img src="img/git.png">

@@ -1,20 +1,20 @@
 <template>
-    <div class="">
+    <div class="" id="projetosID">
         <div class="my-5">
             <div class="text-center">
                 <p class="font-bold text-4xl mb-10 font-kanit font-bold">Projetos recentes:</p>
             </div>
 
             <div class="flex justify-around border-b-4 border-grey-200 w-3/5 mx-auto my-0 pb-5 mb-5 font-kanit">
-                <div class="text-center" @click="sites = true, aplicativos = false, tecnologias = false">
+                <div class="text-center transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" @click="sites = true, aplicativos = false, tecnologias = false">
                     <img class="cursor-pointer" src="img/website.png">
                     <p class="cursor-pointer text-blue-600 hover:text-black">Criação de sites</p>
                 </div>
-                <div class="text-center" @click="sites = false, aplicativos = true, tecnologias = false">
+                <div class="text-center transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" @click="sites = false, aplicativos = true, tecnologias = false">
                     <img class="cursor-pointer" src="img/application.png">
                     <p class="cursor-pointer text-blue-600 hover:text-black">Criação de Aplicativos</p>
                 </div>
-                <div class="text-center" @click="sites = false, aplicativos = false, tecnologias = true">
+                <div class="text-center transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" @click="sites = false, aplicativos = false, tecnologias = true">
                     <img class="cursor-pointer" src="img/program.png">
                     <p class="cursor-pointer text-blue-600 hover:text-black">Tecnologias que usamos</p>
                 </div>
@@ -29,14 +29,14 @@
                     </div>
                     
                     <div class="flex flex-col">
-                        <div class="">
+                        <div class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <div class="text-center font-bold text-3xl mb-2">
                                 <p class="font-kanit font-bold">Front Finanças</p>
                             </div>
                         </div>
 
                         <div class="text-center">
-                            <p class="font-poppins font-semibold">Laborum cupidatat in aute enim laboris occaecat. Eu nulla adipisicing aliqua dolor occaecat. Qui magna minim cupidatat aliqua sint sunt deserunt consequat est fugiat. Amet anim Lorem culpa sit Lorem pariatur ea ullamco. Sit Lorem ullamco voluptate eiusmod aliqua officia do occaecat cupidatat ad fugiat. Veniam reprehenderit dolore exercitation voluptate dolor in deserunt ad dolor velit ex. Nostrud incididunt eu est exercitation aute do cillum.</p>
+                            <p class="font-poppins font-semibold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Laborum cupidatat in aute enim laboris occaecat. Eu nulla adipisicing aliqua dolor occaecat. Qui magna minim cupidatat aliqua sint sunt deserunt consequat est fugiat. Amet anim Lorem culpa sit Lorem pariatur ea ullamco. Sit Lorem ullamco voluptate eiusmod aliqua officia do occaecat cupidatat ad fugiat. Veniam reprehenderit dolore exercitation voluptate dolor in deserunt ad dolor velit ex. Nostrud incididunt eu est exercitation aute do cillum.</p>
                         </div>
                     </div>
                 </div>
@@ -51,12 +51,12 @@
                     <div class="flex flex-col">
                         <div class="">
                             <div class="text-center font-bold text-3xl mb-2">
-                                <p class="font-kanit font-bold">Front Finanças</p>
+                                <p class="font-kanit font-bold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Front Finanças</p>
                             </div>
                         </div>
 
                         <div class="text-center">
-                            <p class="font-poppins font-semibold">Laborum cupidatat in aute enim laboris occaecat. Eu nulla adipisicing aliqua dolor occaecat. Qui magna minim cupidatat aliqua sint sunt deserunt consequat est fugiat. Amet anim Lorem culpa sit Lorem pariatur ea ullamco. Sit Lorem ullamco voluptate eiusmod aliqua officia do occaecat cupidatat ad fugiat. Veniam reprehenderit dolore exercitation voluptate dolor in deserunt ad dolor velit ex. Nostrud incididunt eu est exercitation aute do cillum.</p>
+                            <p class="font-poppins font-semibold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Laborum cupidatat in aute enim laboris occaecat. Eu nulla adipisicing aliqua dolor occaecat. Qui magna minim cupidatat aliqua sint sunt deserunt consequat est fugiat. Amet anim Lorem culpa sit Lorem pariatur ea ullamco. Sit Lorem ullamco voluptate eiusmod aliqua officia do occaecat cupidatat ad fugiat. Veniam reprehenderit dolore exercitation voluptate dolor in deserunt ad dolor velit ex. Nostrud incididunt eu est exercitation aute do cillum.</p>
                         </div>
                     </div>
                 </div>
@@ -73,12 +73,12 @@
                     <div class="flex flex-col">
                         <div class="">
                             <div class="text-center font-bold text-3xl mb-2">
-                                <p class="font-semibold font-kanit">Front Finanças APP</p>
+                                <p class="font-semibold font-kanit transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Front Finanças APP</p>
                             </div>
                         </div>
 
                         <div class="text-center">
-                            <p class="font-kanit ">Laborum cupidatat in aute enim laboris occaecat. Eu nulla adipisicing aliqua dolor occaecat. Qui magna minim cupidatat aliqua sint sunt deserunt consequat est fugiat. Amet anim Lorem culpa sit Lorem pariatur ea ullamco. Sit Lorem ullamco voluptate eiusmod aliqua officia do occaecat cupidatat ad fugiat. Veniam reprehenderit dolore exercitation voluptate dolor in deserunt ad dolor velit ex. Nostrud incididunt eu est exercitation aute do cillum.</p>
+                            <p class="font-kanit transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Laborum cupidatat in aute enim laboris occaecat. Eu nulla adipisicing aliqua dolor occaecat. Qui magna minim cupidatat aliqua sint sunt deserunt consequat est fugiat. Amet anim Lorem culpa sit Lorem pariatur ea ullamco. Sit Lorem ullamco voluptate eiusmod aliqua officia do occaecat cupidatat ad fugiat. Veniam reprehenderit dolore exercitation voluptate dolor in deserunt ad dolor velit ex. Nostrud incididunt eu est exercitation aute do cillum.</p>
                         </div>
                     </div>
                     <div class="flex bg-blue-500 rounded-full py-3 px-6 w-full">

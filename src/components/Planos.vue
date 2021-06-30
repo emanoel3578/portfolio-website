@@ -4,9 +4,9 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <div class="bg-blue-400 font-sans font-kanit pb-20 pt-10" id="planosID">
-        <div class="font-semibold text-3xl text-white text-center pb-5">Planos perfeitos pra o seu negocio:</div>
+        <div class="font-semibold text-3xl text-white text-center pb-5 px-2 md:px-0">Planos perfeitos pra o seu negocio:</div>
 
-        <div class="flex justify-center items-center">
+        <div class="flex flex-col md:flex md:flex-row justify-center items-center">
 
             <div class="flex flex-col bg-gray-900 border-4 shadow-xl transform scale-110 rounded-3xl bg-white px-5 pb-10 m-5 transition duration-500 ease-in-out transform hover:-translate-y-4 hover:scale-110">
 
@@ -52,7 +52,7 @@
             </div>
 
             <div>
-                <p class="text-center items-center font-semibold text-white text-5xl mx-8"> OU </p>
+                <p class="text-center items-center font-semibold text-white text-5xl mx-8 mb-8 mt-3 md:mt-0 md:mb-0"> OU </p>
             </div>
 
             <div>

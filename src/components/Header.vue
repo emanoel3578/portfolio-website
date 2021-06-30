@@ -1,9 +1,9 @@
 <template>
     <div>
         <Orcamento />
-        <div id="background-wrap" class="absolute opacity-50 top-0 left-0 right-0 pt-50 bg-blue-500">
+        <div id="background-wrap" class="absolute opacity-50 top-0 left-0 right-0 pt-50 bg-blue-500 w-screen overflow-hidden">
             <div class="x1">
-                <div class="cloud"></div>
+                <div class="cloud "></div>
             </div>
             
             <div class="x2">

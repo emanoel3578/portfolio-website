@@ -2,7 +2,7 @@
     <div id="orcamentoID" class="invisible">
         <div class="font-kanit">
             <div class="fixed z-10 inset-0 bg-black opacity-50 mx-auto my-0"></div>
-            <div class="fixed z-10 inset-y-1/4 inset-x-1/3">
+            <div class="fixed z-10 md:inset-y-1/4 md:inset-x-1/3">
                 <div class="bg-gray-100 text-gray-500 rounded-3xl shadow-xl w-full overflow-hidden" style="max-width:1000px">
                     <div class="flex pl-5 pt-2 bg-indigo-500" style="width: 35%;">
                         <p class="text-5xl text-white cursor-pointer" @click="closeOrcamento()">X</p>

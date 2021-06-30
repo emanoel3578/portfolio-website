@@ -1,7 +1,7 @@
 <template>
     <div>
         <Orcamento />
-        <div id="background-wrap" class="absolute opacity-50 top-0 left-0 right-0 pt-50 bg-blue-500">
+        <div id="background-wrap" class="absolute opacity-50 top-0 left-0 right-0 pt-50 bg-blue-500 w-screen">
             <div class="x1">
                 <div class="cloud"></div>
             </div>
@@ -90,7 +90,7 @@ export default {
 @-webkit-keyframes animateCloud
 {
     0%{margin-left: -1000px;}
-    100%{margin-left: 100%;}
+    100%{margin-left: 26%;}
 } 
 
 .x1 {

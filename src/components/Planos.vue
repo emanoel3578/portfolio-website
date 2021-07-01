@@ -19,27 +19,50 @@
                 </div>
 
                 <a class="font-bold font-kanit text-3xl text-white text-center pb-3">Plano ideal</a>
-                <div class="flex border-b-4 border-grey-200 items-center justify-center text-white">
-                    <a class="text-sm">$</a>
-                    <a class="text-2xl font-bold">599</a>
-                    <a class="text-sm">/Site ou programa</a>
+                <div class="flex flex-col border-b-4 border-grey-200 items-center justify-center text-white">
+                    <div class="-mb-2">
+                        <a class="text-sm">$</a>
+                        <a class="text-2xl font-bold ">999</a>
+                        <a class="text-sm">/Sites,app ou programas</a>
+                    </div>
+                    <div class="-mb-2">
+                        <a class="text-sm">ou</a>
+                    </div>
+                    <div>
+                        <a class="">12x</a>
+                        <a class="text-2xl pr-1">83,25</a>
+                        <a class="text-sm">/Sites,app ou programas</a>
+                    </div>
                 </div>
 
                 <div class="flex flex-col">
-                    <div class="flex my-4">
+                    <div class="flex mb-4 pt-2">
                         <span class="material-icons text-gray-400 pr-1">done</span>
-                        <p class="text-gray-400 ">Dominio exclusivo para sua </p>
-                        <p class="text-blue-600 font-semibold pl-1">Marca</p>
+                        <div class="flex flex-col md:flex md:flex-row text-center">
+                            <p class="text-gray-400">Experiência customizada para seu</p>
+                            <p class="text-blue-600 font-semibold pl-1">Negócio</p>
+                        </div>
                     </div>
                     <div class="flex mb-4">
                         <span class="material-icons text-gray-400 pr-1">done</span>
-                        <p class="text-gray-400">Experiência customizada para seu</p>
-                        <p class="text-blue-600 font-semibold pl-1">Negócio</p>
+                        <div class="flex flex-col md:flex md:flex-row text-center">
+                            <p class="text-gray-400">Entregamos no máximo de 14 dias ou seu dinheiro de</p>
+                            <p class="text-blue-600 font-semibold pl-1">Volta</p>
+                        </div>
                     </div>
                     <div class="flex mb-4">
                         <span class="material-icons text-gray-400 pr-1">done</span>
-                        <p class="text-gray-400">Suporte para sua empresa</p>
-                        <p class="text-blue-600 font-semibold pl-1">24 Horas</p>
+                        <div class="flex flex-col md:flex md:flex-row text-center">
+                            <p class="text-gray-400">Desenvolvido para todas as plataformas</p>
+                            <p class="text-blue-600 font-semibold pl-1">Computador e Mobile</p>
+                        </div>
+                    </div>
+                    <div class="flex mb-4">
+                        <span class="material-icons text-gray-400 pr-1">done</span>
+                        <div class="flex flex-col md:flex md:flex-row text-center">
+                            <p class="text-gray-400">Suporte vitalício para sua empresa</p>
+                            <p class="text-blue-600 font-semibold pl-1">24 Horas</p>
+                        </div>
                     </div>
 
                     <div class="flex justify-center">
@@ -61,7 +84,7 @@
                 <a class="font-semibold font-kanit text-3xl text-black text-center pb-3 pt-5">Completo</a>
                 <div class="flex border-b-4 border-grey-200 items-center justify-center text-black">
                     <a class="text-sm">$</a>
-                    <a class="text-2xl font-bold">599</a>
+                    <a class="text-2xl font-bold">799</a>
                     <a class="text-sm font-kanit">/Site ou programa</a>
                 </div>
 

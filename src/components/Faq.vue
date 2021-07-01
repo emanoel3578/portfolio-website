@@ -10,7 +10,7 @@
 
             <div class="md:w-4/5 mx-auto my-0 mb-5">
                 <div class="flex flex-col md:flex md:flex-row px-2 md:px-0 gap-4">
-                    <div class="flex flex-col w-full">
+                    <div class="flex flex-col w-full transition duration-500 ease-in-out transform hover:-translate-y-4 hover:scale-110">
                         <div class="flex justify-center">
                             <p class="text-xl font-semibold text-red-800 pr-2">1:</p>
                             <p class="text-xl font-semibold text-gray-700">Porque devo ter um site/programa para o meu negocio ?</p>
@@ -28,7 +28,7 @@
                         </div>
                     </div>
 
-                    <div class="flex flex-col w-full">
+                    <div class="flex flex-col w-full transition duration-500 ease-in-out transform hover:-translate-y-4 hover:scale-110">
                         <div class="flex justify-center">
                             <p class="text-xl font-semibold text-red-800 pr-2">2:</p>
                             <p class="text-xl font-semibold text-gray-700">Tenho um pequeno/médio negócio, também preciso de um site ?</p>
@@ -38,7 +38,7 @@
                         </div>
                     </div>
 
-                    <div class="flex flex-col w-full">
+                    <div class="flex flex-col w-full transition duration-500 ease-in-out transform hover:-translate-y-4 hover:scale-110">
                         <div class="flex justify-center">
                             <p class="text-xl font-semibold text-red-800 pr-2">3:</p>
                             <p class="text-xl font-semibold text-gray-700">Quanto tempo vou esperar para ter meu site/programa disponível ?</p>
@@ -48,7 +48,7 @@
                         </div>
                     </div>
 
-                    <div class="flex flex-col w-full">
+                    <div class="flex flex-col w-full transition duration-500 ease-in-out transform hover:-translate-y-4 hover:scale-110">
                         <div class="flex justify-center">
                             <p class="text-xl font-semibold text-red-800 pr-2">4:</p>
                             <p class="text-xl font-semibold text-gray-700">Porque escolher a Front Tech para impulsionar o seu négocio por meio da internet ?</p>
@@ -57,7 +57,6 @@
                             <p class="text-gray-700">Contamos com uma equipe apaixonado por tecnologias, que acima de tudo prezam pela qualidade do serviço contratado com um atendimento rápido, seguro e de qualidade internacional.</p>
                         </div>
                     </div>
-
                     
                 </div>
             </div>

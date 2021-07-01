@@ -4,6 +4,7 @@
   <Servicos />
   <Projetos />
   <Planos />
+  <Faq />
   <Sobrenos />
   <Footer />
 </template>
@@ -16,6 +17,7 @@ import Projetos from './components/Projetos.vue'
 import Planos from './components/Planos.vue'
 import Sobrenos from './components/Sobrenos.vue'
 import Footer from './components/Footer.vue'
+import Faq from './components/Faq.vue'
 
 export default {
   name: 'App',
@@ -25,6 +27,7 @@ export default {
     Servicos,
     Projetos,
     Planos,
+    Faq,
     Sobrenos,
     Footer,
   }

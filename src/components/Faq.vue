@@ -44,7 +44,7 @@
                             <p class="text-xl font-semibold text-gray-700">Quanto tempo vou esperar para ter meu site/programa disponível ?</p>
                         </div>
                         <div class="text-center pt-2">
-                            <p class="text-gray-700">Apartir do momento em que você fizer o pedido do orçamento até a etapa de entrega completa do seu projeto levamos o prazido máximo de 14 dias, e ao decorrer do processo você cliente fica ciente de tudo que está acontecendo com atualizações diárias do desenvolvimento.</p>
+                            <p class="text-gray-700">Apartir do momento em que você fizer o pedido do orçamento até a etapa de entrega completa do seu projeto levamos o prazo máximo de 14 dias, e ao decorrer do processo você cliente fica ciente de tudo que está acontecendo com atualizações diárias do desenvolvimento.</p>
                         </div>
                     </div>
 

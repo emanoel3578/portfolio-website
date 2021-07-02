@@ -49,33 +49,33 @@
                     <p class="text-5xl font-kanit pt-4 md:pt-0 md:font-semibold">Serviços</p>
                 </div>
 
-                <div class="flex text-center">
+                <div class="flex flex-col md:flex md:flex-row text-center">
                     <div class="md:flex md:flex-col items-end my-5">
                         <div class="p-5 md:w-4/5 rounded-full md:m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                            <img src="img/mobileicon.png" class="mx-auto my-0 h-10">
-                            <p class="font-bold ">Criação de Sites e Lojas Virtuais MOBILE</p>
-                            <p class="font-kanit">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
+                            <img src="img/moneyicon.png" class="mx-auto my-0 h-10">
+                            <p class="font-bold ">Criação de Sistemas e sites que cabem no seu bolso</p>
+                            <p class="font-kanit">Temos os melhores valores para o seu negócio crescer com a ajuda da tecnologia, nos orgulhamos em oferecer um serviço de qualidade e preços que buscam caber dentro do orçamento de negócios de pequenas e médias empresas.</p>
                         </div>
 
                         <div class="p-5 md:w-4/5 rounded-full md:m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <img src="img/computericon.png" class="mx-auto my-0 h-10">
-                            <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
-                            <p class="font-kanit">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
+                            <p class="font-bold">Desenvolvimento de Sites para todas as plataformas</p>
+                            <p class="font-kanit">Desenvolvemos todos os tipos de sites, do mais simples ao mais complexo sempre buscando o equilíbrio entre desempenho e design para que o usuário tenha a melhor experiència possível.</p>
                         </div>
                     </div>
 
 
                     <div class="flex flex-col items-end my-5">
                         <div class="p-5 md:w-4/5 rounded-full md:m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                            <img src="img/supporticon.png" class="mx-auto my-0 h-10">
-                            <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
-                            <p class="font-kanit">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
+                            <img src="img/mobileicon.png" class="mx-auto my-0 h-10">
+                            <p class="font-bold">A qualquer momento e em qualquer lugar seu negócio está online</p>
+                            <p class="font-kanit">Todo projeto que desenvolvemos vem com a garantia que você podera acessar em qualquer aparelho que tenha acesso a internet, em qualquer lugar a qualquer momento.</p>
                         </div>
 
                         <div class="p-5 md:w-4/5 rounded-full md:m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                            <img src="img/moneyicon.png" class="mx-auto my-0 h-10">
-                            <p class="font-bold">Criação de Sites e Lojas Virtuais</p>
-                            <p class="font-kanit">Criamos qualquer tipo de site, nosso diferencial é que deixamos ele pronto para primeira posição no google.</p>
+                            <img src="img/supporticon.png" class="mx-auto my-0 h-10">
+                            <p class="font-bold">Suporte 24hrs 7dias da semana, você nunca está sozinho</p>
+                            <p class="font-kanit">Garantimos suporte a todo momento para o seu projeto junto com a gente, queremos te mostrar como é fácil atravez da nossa plataforma solucionar qualquer problema.</p>
                         </div>
                     </div>
                 </div>

@@ -46,7 +46,8 @@
         <div id="servicosID" class="flex flex-col md:flex md:flex-row mx-auto my-0 w-full">
             <div class="flex flex-col">
                 <div class="flex items-center bg-blue-500 slide-in-left">
-                    <div class="w-1/2" id="office1Div">
+                    <div class="w-1/2">
+                        <img src="img/office1.png" class="">
                     </div>
                     <div class="flex flex-col w-1/2  text-center font-kanit text-gray-100 px-2">
                         <p class="font-bold text-4xl">Criação de Sistemas e sites que cabem no seu bolso</p>
@@ -59,12 +60,14 @@
                         <p class="font-bold text-4xl">Desenvolvimento de Sites para todas as plataformas</p>
                         <p class="text-2xl">Desenvolvemos todos os tipos de sites, do mais simples ao mais complexo sempre buscando o equilíbrio entre desempenho e design para que o usuário tenha a melhor experiència possível.</p>
                     </div>
-                    <div class="w-1/2" id="office2Div">
+                    <div class="w-1/2">
+                        <img src="img/office2.jpg" class="">
                     </div>
                 </div>
 
                <div class="flex items-center bg-blue-500 slide-in-left">
-                    <div class="w-1/2" id="office3Div">
+                    <div class="w-1/2">
+                        <img src="img/office3.jpg" class="">
                     </div>
                     <div class="flex flex-col w-1/2  text-center font-kanit text-gray-100 px-2">
                         <p class="font-bold text-4xl">A qualquer momento e em qualquer lugar seu negócio está online</p>
@@ -77,7 +80,8 @@
                         <p class="font-bold text-4xl">Suporte 24hrs 7dias da semana, você nunca está sozinho</p>
                         <p class="text-2xl">Garantimos suporte a todo momento sempre junto de você, queremos te mostrar como é fácil atravez da nossa plataforma solucionar qualquer problema.</p>
                     </div>
-                    <div class="w-1/2" id="office4Div">
+                    <div class="w-1/2">
+                        <img src="img/office4.jpg" class="">
                     </div>
                 </div>
             </div>

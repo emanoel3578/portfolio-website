@@ -30,14 +30,16 @@
                     
                     <div class="flex flex-col md:w-full">
                         <div class="flex justify-center mt-5 md:mt-0 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 mb-4">
-                            <div class="text-center text-3xl">
-                                <p class="font-kanit text-blue-900 font-semibold">Front Finanças - </p>
-                            </div>
+                            <div class="flex flex-col md:flex md:flex-row">
+                                <div class="text-center text-3xl">
+                                    <p class="font-kanit text-blue-900 font-semibold">Front Finanças</p>
+                                </div>
 
-                            <div class="flex justify-center ml-2">
-                                <p class="p-2 font-kanit rounded-3xl bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
-                                    Visitar projeto
-                                </p>
+                                <div class="flex justify-center ml-2">
+                                    <p class="p-2 font-kanit rounded-3xl bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
+                                        Visitar projeto
+                                    </p>
+                                </div>
                             </div>
                         </div>
 
@@ -66,19 +68,28 @@
                     
                     <div class="flex flex-col md:w-full">
                         <div class="flex justify-center mt-5 md:mt-0 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 mb-5">
-                            <div class="text-center text-3xl">
-                                <p class="font-kanit text-blue-900 font-semibold ">Galaxy Studios -</p>
-                            </div>
-
-                            <div class="flex justify-center ml-2">
-                                <p class="p-2 font-kanit rounded-3xl bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
-                                    Visitar projeto
-                                </p>
+                            <div class="flex flex-col md:flex md:flex-row">
+                                <div class="text-center text-3xl">
+                                    <p class="font-kanit text-blue-900 font-semibold ">Galaxy Studios</p>
+                                </div>
+                                <div class="flex justify-center ml-2">
+                                    <p class="p-2 font-kanit rounded-3xl bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
+                                        Visitar projeto
+                                    </p>
+                                </div>
                             </div>
                         </div>
 
-                        <div class="text-center md:ml-9">
-                            <p class="font-poppins font-semibold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Laborum cupidatat in aute enim laboris occaecat. Eu nulla adipisicing aliqua dolor occaecat. Qui magna minim cupidatat aliqua sint sunt deserunt consequat est fugiat. Amet anim Lorem culpa sit Lorem pariatur ea ullamco. Sit Lorem ullamco voluptate eiusmod aliqua officia do occaecat cupidatat ad fugiat. Veniam reprehenderit dolore exercitation voluptate dolor in deserunt ad dolor velit ex. Nostrud incididunt eu est exercitation aute do cillum.</p>
+                        <div class="flex flex-col text-center md:ml-9 font-poppins font-semibold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                            <div class="text-sm md:text-lg pb-2">
+                                <p class="text-green-800">Principais Funções:</p>
+                                <p class="text-blue-800">1: Tornar mais fácil o marketing da marca</p>
+                                <p class="text-blue-800">2: Ter uma plataforma de controle de dados de quem frequenta o site</p>
+                                <p class="text-blue-800">3: Gerar mais engajamento com futuros investidores</p>
+                            </div>
+                            <p class="">
+                                Um site de estilo One page, com o intuito de solidificar o começo de uma start-up com o objetivo de buscar investimento para a crição de conteúdo voltado para curiosidades espaciais
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -94,22 +105,33 @@
                     
                     <div class="flex flex-col">
                         <div class="flex justify-center transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 mb-5">
-                            <div class="text-center text-3xl mt-4 md:mt-0 md:mb-2">
-                                <p class="font-semibold font-kanit transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 text-blue-900 font-semibold">Front Finanças APP -</p>
-                            </div>
+                            <div class="flex flex-col md:flex md:flex-row">
+                                <div class="text-center text-3xl mt-4 md:mt-0 md:mb-2">
+                                    <p class="font-semibold font-kanit transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 text-blue-900 font-semibold">Front Finanças APP</p>
+                                </div>
 
-                            <div class="flex justify-center items-center ml-2">
-                                <p class="p-1 md:p-2 text-center font-kanit rounded-3xl bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
-                                    Visitar projeto
-                                </p>
+                                <div class="flex justify-center items-center ml-2">
+                                    <p class="p-1 md:p-2 text-center font-kanit rounded-3xl bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
+                                        Visitar projeto
+                                    </p>
+                                </div>
                             </div>
                         </div>
 
-                        <div class="text-center mx-8">
-                            <p class="font-kanit transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Laborum cupidatat in aute enim laboris occaecat. Eu nulla adipisicing aliqua dolor occaecat. Qui magna minim cupidatat aliqua sint sunt deserunt consequat est fugiat. Amet anim Lorem culpa sit Lorem pariatur ea ullamco. Sit Lorem ullamco voluptate eiusmod aliqua officia do occaecat cupidatat ad fugiat. Veniam reprehenderit dolore exercitation voluptate dolor in deserunt ad dolor velit ex. Nostrud incididunt eu est exercitation aute do cillum.</p>
+                        <div class="flex flex-col text-center md:ml-9 font-poppins font-semibold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                            <div class="text-sm md:text-lg pb-2">
+                                <p class="text-green-800">Principais Funções:</p>
+                                <p class="text-blue-800">1: Adição e controle das despesas e receitas mensais</p>
+                                <p class="text-blue-800">2: Geração de relatórios mensais e anuais de cada operação </p>
+                                <p class="text-blue-800">3: Gráficos responsivos de acordo com os dados</p>
+                                <p class="text-blue-800">4: Disponível para Computador/Celular/Tablet</p>
+                            </div>
+                            <p class="">
+                                Nosso sistema mais recente, desenvolvido com o objetivo de automatizar todo o processo de fluxo de caixa e controle de finanças do nosso cliente.
+                            </p>
                         </div>
                     </div>
-                    <div class="flex bg-blue-500 justify-center rounded-full w-full">
+                    <div class="flex bg-blue-500 justify-center rounded-full md:w-full">
                         <img src="img/phoneframe.png" class="w-3/4 md:w-auto transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                     </div>
                 </div>

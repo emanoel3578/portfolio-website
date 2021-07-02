@@ -75,7 +75,7 @@
                         <div class="p-5 md:w-4/5 rounded-full md:m-4 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <img src="img/supporticon.png" class="mx-auto my-0 h-10">
                             <p class="font-bold">Suporte 24hrs 7dias da semana, você nunca está sozinho</p>
-                            <p class="font-kanit">Garantimos suporte a todo momento para o seu projeto junto com a gente, queremos te mostrar como é fácil atravez da nossa plataforma solucionar qualquer problema.</p>
+                            <p class="font-kanit">Garantimos suporte a todo momento sempre junto de você, queremos te mostrar como é fácil atravez da nossa plataforma solucionar qualquer problema.</p>
                         </div>
                     </div>
                 </div>

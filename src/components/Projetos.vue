@@ -1,20 +1,24 @@
 <template>
     <div class="" id="projetosID">
-        <div class="my-5">
-            <div class="text-center">
-                <p class="font-bold text-4xl mb-10 font-kanit font-bold">Projetos recentes:</p>
+        <div class="">
+            <div class="text-center my-5">
+                <p class="font-bold text-4xl font-kanit font-bold">Projetos recentes:</p>
+                <p class="text-sm">(Clique nos ícones abaixo)</p>
             </div>
 
             <div class="flex md:justify-around border-b-4 items-center border-grey-200 md:w-3/5 mx-auto my-0 pb-5 mb-5 font-kanit">
                 <div class="text-center px-4 md:px-0 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" @click="sites = true, aplicativos = false, tecnologias = false">
+                    <img src="img/click.png"  class="mx-auto my-0 animate-pulse transform rotate-180" >
                     <img class="cursor-pointer w-20 md:w-auto mx-auto my-0" src="img/website.png" >
                     <p class="cursor-pointer text-blue-600 hover:text-black">Sites recentes</p>
                 </div>
                 <div class="text-center transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" @click="sites = false, aplicativos = true, tecnologias = false">
+                    <img src="img/click.png"  class="mx-auto my-0 animate-pulse transform rotate-180 mb-2" >
                     <img class="cursor-pointer w-20 md:w-auto mx-auto my-0" src="img/application.png">
                     <p class="cursor-pointer text-blue-600 hover:text-black">Aplicativos recentes</p>
                 </div>
                 <div class="text-center transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" @click="sites = false, aplicativos = false, tecnologias = true">
+                    <img src="img/click.png"  class="mx-auto my-0 animate-pulse transform rotate-180" >
                     <img class="cursor-pointer w-20 md:w-auto mx-auto my-0" src="img/program.png">
                     <p class="cursor-pointer text-blue-600 hover:text-black">Tecnologias que usamos</p>
                 </div>

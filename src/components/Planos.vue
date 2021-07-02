@@ -81,28 +81,44 @@
             <div>
                 <div class="flex flex-col bg-white border-4 shadow-xl transform scale-110 rounded-3xl border-black px-5 pb-6 m-5 transition duration-500 ease-in-out transform hover:-translate-y-4 hover:scale-110">
 
-                <a class="font-semibold font-kanit text-3xl text-black text-center pb-3 pt-5">Completo</a>
-                <div class="flex border-b-4 border-grey-200 items-center justify-center text-black">
-                    <a class="text-sm">$</a>
-                    <a class="text-2xl font-bold">799</a>
-                    <a class="text-sm font-kanit">/Site ou programa</a>
+                <a class="font-semibold font-kanit text-3xl text-black text-center pb-3 pt-5">Básico</a>
+                <div class="flex flex-col border-b-4 border-grey-200 items-center justify-center text-black">
+                    <div class="-mb-2">
+                        <a class="text-sm">$</a>
+                        <a class="text-2xl font-bold ">699</a>
+                        <a class="text-sm">/Sites,app ou programas</a>
+                    </div>
+                    <div class="-mb-2">
+                        <a class="text-sm">ou</a>
+                    </div>
+                    <div>
+                        <a class="">12x</a>
+                        <a class="text-2xl pr-1">66,66</a>
+                        <a class="text-sm">/Sites,app ou programas</a>
+                    </div>
                 </div>
 
                 <div class="flex flex-col">
                     <div class="flex my-6">
                         <span class="material-icons text-gray-900 pr-1">done</span>
-                        <p class="text-gray-600 ">Dominio exclusivo para sua </p>
-                        <p class="text-blue-600 font-semibold pl-1">Marca</p>
+                        <div class="flex flex-col md:flex md:flex-row text-center">
+                            <p class="text-gray-600 ">Dominio exclusivo para sua </p>
+                            <p class="text-blue-600 font-semibold pl-1">Marca</p>
+                        </div>
+                    </div>
+                    <div class="flex mb-6">
+                        <span class="material-icons text-gray-600">done</span>
+                        <div class="flex flex-col md:flex md:flex-row text-center">
+                            <p class="text-gray-600">Experiência customizada para seu</p>
+                            <p class="text-blue-600 font-semibold pl-1">Negócio</p>
+                        </div>
                     </div>
                     <div class="flex mb-6">
                         <span class="material-icons text-gray-600 pr-1">done</span>
-                        <p class="text-gray-600">Experiência customizada para seu</p>
-                        <p class="text-blue-600 font-semibold pl-1">Negócio</p>
-                    </div>
-                    <div class="flex mb-6">
-                        <span class="material-icons text-gray-600 pr-1">done</span>
-                        <p class="text-gray-600">Suporte para sua empresa</p>
-                        <p class="text-blue-600 font-semibold pl-1">24 Horas</p>
+                        <div class="flex flex-col md:flex md:flex-row text-center">
+                            <p class="text-gray-600">Suporte para sua empresa</p>
+                            <p class="text-blue-600 font-semibold pl-1">24 Horas</p>
+                        </div>
                     </div>
 
                     <div class="flex justify-center">

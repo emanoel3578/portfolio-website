@@ -63,7 +63,7 @@
                             </div>
                         </div>
 
-                        <div class="flex flex-col text-center md:ml-9 font-poppins font-semibold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                        <div class="flex flex-col text-center mx-4 md:mx-0 md:ml-9 font-poppins font-semibold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <div class="text-sm md:text-lg pb-2">
                                 <p class="text-green-800">Principais Funções:</p>
                                 <p class="text-blue-800">1: Adição e controle das despesas e receitas mensais</p>
@@ -100,7 +100,7 @@
                             </div>
                         </div>
 
-                        <div class="flex flex-col text-center md:ml-9 font-poppins font-semibold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                        <div class="flex flex-col text-center mx-4 md:mx-0 md:ml-9 font-poppins font-semibold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <div class="text-sm md:text-lg pb-2">
                                 <p class="text-green-800">Principais Funções:</p>
                                 <p class="text-blue-800">1: Tornar mais fácil o marketing da marca</p>

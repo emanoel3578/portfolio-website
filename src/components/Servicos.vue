@@ -10,44 +10,44 @@
         </div>
 
         <div id="servicosID" class="flex flex-col md:flex md:flex-row mx-auto my-0 w-full">
-            <div class="flex flex-col">
+            <div class="flex flex-col mx-auto my-0">
                 <div class="flex flex-col md:flex md:flex-row items-center bg-blue-500 slide-in-left">
                     <div class="md:w-1/2">
-                        <img src="img/office1.png" class="">
+                        <img src="img/office1.png" class="md:w-3/4">
                     </div>
-                    <div class="flex flex-col md:w-1/2  text-center font-kanit text-gray-100 px-2 md:px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                    <div class="flex flex-col md:w-1/2  text-center font-kanit text-gray-100 p-4 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                         <p class="font-bold text-2xl md:text-4xl">Criação de Sistemas e sites que cabem no seu bolso</p>
                         <p class="text-lg md:text-2xl">Temos os melhores valores para o seu negócio crescer com a ajuda da tecnologia, nos orgulhamos em oferecer um serviço de qualidade e preços que buscam caber dentro do orçamento de negócios de pequenas e médias empresas.</p>
                     </div>
                 </div>
 
                 <div class="flex flex-col-reverse items-center md:flex md:flex-row slide-in-right">
-                    <div class="flex flex-col md:w-1/2  text-center font-kanit text-black px-2 md:px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                    <div class="flex flex-col md:w-1/2  text-center font-kanit text-black p-4 md:px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                         <p class="font-bold text-2xl md:text-4xl">Desenvolvimento de Sites para todas as plataformas</p>
                         <p class="text-lg md:text-2xl">Desenvolvemos todos os tipos de sites, do mais simples ao mais complexo sempre buscando o equilíbrio entre desempenho e design para que o usuário tenha a melhor experiència possível.</p>
                     </div>
                     <div class="md:w-1/2">
-                        <img src="img/office2.jpg" class="">
+                        <img src="img/office2.jpg" class="md:w-3/4">
                     </div>
                 </div>
 
                <div class="flex flex-col md:flex md:flex-row items-center bg-blue-500 slide-in-left">
                     <div class="md:w-1/2">
-                        <img src="img/office3.jpg" class="">
+                        <img src="img/office3.jpg" class="md:w-3/4">
                     </div>
-                    <div class="flex flex-col md:w-1/2 text-center font-kanit text-gray-100 px-2 md:px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                    <div class="flex flex-col md:w-1/2 text-center font-kanit text-gray-100 p-4 md:pr-5 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                         <p class="font-bold text-2xl md:text-4xl">A qualquer momento e em qualquer lugar seu negócio está online</p>
                         <p class="text-lg md:text-2xl">Todo projeto que desenvolvemos vem com a garantia que você podera acessar em qualquer aparelho que tenha acesso a internet, em qualquer lugar a qualquer momento.</p>
                     </div>
                 </div>
 
                 <div class="flex flex-col-reverse md:flex md:flex-row items-center slide-in-right">
-                    <div class="flex flex-col md:w-1/2  text-center font-kanit text-black px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                    <div class="flex flex-col md:w-1/2  text-center font-kanit text-black p-4 md:px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                         <p class="font-bold text-2xl md:text-4xl">Suporte 24hrs 7dias da semana, você nunca está sozinho</p>
                         <p class="text-lg md:text-2xl">Garantimos suporte a todo momento sempre junto de você, queremos te mostrar como é fácil atravez da nossa plataforma solucionar qualquer problema.</p>
                     </div>
                     <div class="md:w-1/2">
-                        <img src="img/office4.jpg" class="">
+                        <img src="img/office4.jpg" class="md:w-3/4">
                     </div>
                 </div>
             </div>

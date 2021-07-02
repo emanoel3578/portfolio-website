@@ -43,9 +43,22 @@
                 </div>
 
                 <div class="flex text-center md:justify-center text-gray-200">
-                    <p class="mr-2">Commodo aliquip minim consectetur ea tempor elit. Qui consectetur consectetur ut aliqua elit ad. Id ullamco mollit cillum incididunt et ut laborum proident. </p>
-                    <p class="mr-2">Commodo aliquip minim consectetur ea tempor elit. Qui consectetur consectetur ut aliqua elit ad. Id ullamco mollit cillum incididunt et ut laborum proident. </p>
-                    <p class="mr-2">Commodo aliquip minim consectetur ea tempor elit. Qui consectetur consectetur ut aliqua elit ad. Id ullamco mollit cillum incididunt et ut laborum proident. </p>
+                    <div class="flex flex-col">
+                        <p class="mr-2">Formado pela universidade UESPI - PI</p>
+                        <p class="mr-2">Desenvolvedor Full Stack</p>
+                        <p class="mr-2">Maestria em tecnologias como Vue,Tailwind e Javascript</p>
+                    </div>
+                    <div class="flex flex-col">
+                        <p class="mr-2">Formado pela UESPI - PI</p>
+                        <p class="mr-2">Bacharel em ciencias da computação</p>
+                        <p class="mr-2">Desenvolvedor Full Stack</p>
+                        <p class="mr-2">Maestria em tecnologias como Vue,Tailwind e Javascript</p>
+                    </div>
+                    <div class="flex flex-col">
+                        <p class="mr-2">Formado pela universidade UESPI - PI</p>
+                        <p class="mr-2">Desenvolvedor Full Stack</p>
+                        <p class="mr-2">Maestria em tecnologias como Vue,Tailwind e Javascript</p>
+                    </div>
                 </div>
             </div>
         </div>

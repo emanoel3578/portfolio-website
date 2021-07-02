@@ -24,11 +24,11 @@
         <transition name="fade">
             <div v-if="sites" class="">
                 <div class="flex flex-col md:flex md:flex-row md:w-3/5 mx-auto my-0 items-center mb-5">
-                    <div class="flex justify-center rounded-full bg-blue-500 md:w-full">
-                        <img class="md:p-5 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" src="img/computer.png">
+                    <div class="flex justify-center rounded-full bg-blue-500 md:w-1/2">
+                        <img class="md:py-2 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" src="img/computer.png">
                     </div>
                     
-                    <div class="flex flex-col">
+                    <div class="flex flex-col md:w-full">
                         <div class="flex justify-center mt-5 md:mt-0 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 mb-4">
                             <div class="text-center text-3xl">
                                 <p class="font-kanit text-blue-900 font-semibold">Front Finanças - </p>
@@ -41,15 +41,15 @@
                             </div>
                         </div>
 
-                        <div class="flex flex-col text-center md:ml-9 font-poppins font-semibold">
-                            <div class="text-sm pb-2">
+                        <div class="flex flex-col text-center md:ml-9 font-poppins font-semibold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                            <div class="text-sm md:text-lg pb-2">
                                 <p class="text-green-800">Principais Funções:</p>
                                 <p class="text-blue-800">1: Adição e controle das despesas e receitas mensais</p>
                                 <p class="text-blue-800">2: Geração de relatórios mensais e anuais de cada operação </p>
                                 <p class="text-blue-800">3: Gráficos responsivos de acordo com os dados</p>
                                 <p class="text-blue-800">4: Disponível para Computador/Celular/Tablet</p>
                             </div>
-                            <p class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                            <p class="">
                                 Nosso sistema mais recente, desenvolvido com o objetivo de automatizar todo o processo de fluxo de caixa e controle de finanças do nosso cliente.
                             </p>
                         </div>
@@ -60,11 +60,11 @@
 
             
                 <div class="flex flex-col md:flex md:flex-row md:w-3/5 mx-auto my-0  items-center mb-5">
-                    <div class="flex justify-center rounded-full bg-blue-500 md:w-full">
-                        <img class="md:p-5 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" src="img/computer2.png">
+                    <div class="flex justify-center rounded-full bg-blue-500 md:w-1/2">
+                        <img class="md:py-2 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" src="img/computer2.png">
                     </div>
                     
-                    <div class="flex flex-col">
+                    <div class="flex flex-col md:w-full">
                         <div class="flex justify-center mt-5 md:mt-0 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 mb-5">
                             <div class="text-center text-3xl">
                                 <p class="font-kanit text-blue-900 font-semibold ">Galaxy Studios -</p>

@@ -3,12 +3,12 @@
         <div class="w-full flex bg-blue-400 font-kanit py-5">
             <div class="flex mx-auto my-0 py-2">
                 <div class="flex flex-col items-center">
-                    <div class="text-3xl font-semibold text-white">
-                        DESCUBRA COMO A INCLOUD SISTEMAS PODE AJUDAR A MELHORAR OS RESULTADOS DO SEU NEGÓCIO.
+                    <div class="md:text-3xl text-lg font-semibold text-white text-center px-3">
+                        DESCUBRA COMO A FRONT TECH PODE AJUDAR A MELHORAR OS RESULTADOS DO SEU NEGÓCIO.
                     </div>
                     <div class="flex justify-center mt-5">   
-                        <p class="p-2 text-2xl font-kanit bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
-                            Visitar projeto
+                        <p class="p-2 text-lg md:text-2xl font-kanit bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
+                            Visitar projetos
                         </p>
                     </div>
                 </div>

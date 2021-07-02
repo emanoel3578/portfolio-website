@@ -1,9 +1,25 @@
 <template>
     <div class="" id="projetosID">
+        <div class="w-full flex bg-blue-400 font-kanit py-5">
+            <div class="flex mx-auto my-0 py-2">
+                <div class="flex flex-col items-center">
+                    <div class="text-3xl font-semibold text-white">
+                        DESCUBRA COMO A INCLOUD SISTEMAS PODE AJUDAR A MELHORAR OS RESULTADOS DO SEU NEGÓCIO.
+                    </div>
+                    <div class="flex justify-center mt-5">   
+                        <p class="p-2 text-2xl font-kanit bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
+                            Visitar projeto
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
         <div class="">
             <div class="text-center my-5">
                 <p class="font-bold text-4xl font-kanit font-bold">Projetos recentes:</p>
-                <p class="text-sm">(Clique nos ícones abaixo)</p>
+                <p class="text-lg">(Clique nos ícones abaixo)</p>
             </div>
 
             <div class="flex md:justify-around border-b-4 items-center border-grey-200 md:w-3/5 mx-auto my-0 pb-5 mb-5 font-kanit">

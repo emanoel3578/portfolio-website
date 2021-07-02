@@ -1,13 +1,20 @@
 <template>
     <div>
         <div class="hidden md:block">
-            <div class="relative flex justify-center gap-14 z-100 md:-top-20 md:-mb-12">
+            <div class="flex bg-white font-kanit py-20">
+                <div class="flex flex-col mx-auto my-0 text-center font-semibold text-gray-600 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                    <p class="text-3xl">AGÊNCIA DIGITAL E MARKETING ONLINE</p>
+                    <p class="text-4xl">SOBRE A INCLOUD SISTEMAS</p>
+                </div>
+
+            </div>
+            <!-- <div class="relative flex justify-center gap-14 z-100 ">
                 <div class="py-6 flex sm:py-12 border-3">
                     <div class="relative py-3 sm:max-w-sm sm:mx-auto transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                        <div class="hidden md:block absolute inset-0 bg-gradient-to-r from-cyan-400 to-light-blue-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
-                        <div class="hidden md:block absolute inset-0 bg-gradient-to-l from-cyan-400 to-blue-light-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-0 sm:rounded-3xl"></div>
-                        <div class="hidden md:block absolute inset-0 bg-gradient-to-l from-cyan-400 to-blue-light-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:rotate-6 sm:rounded-3xl"></div>
-                        <div class="flex flex-col relative bg-white shadow-lg sm:rounded-3xl sm:p-10 scale-up-center">
+                        <div class="hidden md:block absolute inset-0 bg-white shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
+                        <div class="hidden md:block absolute inset-0 bg-white shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-0 sm:rounded-3xl"></div>
+                        <div class="hidden md:block absolute inset-0 bg-white shadow-lg transform -skew-y-6 sm:skew-y-0 sm:rotate-6 sm:rounded-3xl"></div>
+                        <div class="flex flex-col relative bg-gray-100 shadow-2xl sm:rounded-3xl sm:p-10 scale-up-center">
                             <img src="img/mobile.png" class="mb-3 w-12 h-12 mx-auto my-0 ">
                             <p class="font-kanit text-center text-lg text-blue-900">Desenvolvimento de aplicativos</p>
                             <p class="font-kanit text-center text-gray-500">Aplicativos mobile por meio das mais modernas tecnologias para celular e tablets.</p>
@@ -17,10 +24,10 @@
                 
                 <div class="py-6 flex sm:py-12">
                     <div class="relative py-3 sm:max-w-sm sm:mx-auto transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                        <div class="hidden md:block absolute inset-0 bg-gradient-to-r from-cyan-400 to-light-blue-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
-                        <div class="hidden md:block absolute inset-0 bg-gradient-to-l from-cyan-400 to-blue-light-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-0 sm:rounded-3xl"></div>
-                        <div class="hidden md:block absolute inset-0 bg-gradient-to-l from-cyan-400 to-blue-light-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:rotate-6 sm:rounded-3xl"></div>
-                        <div class="flex flex-col relative bg-white shadow-lg sm:rounded-3xl sm:p-10 scale-up-center">
+                        <div class="hidden md:block absolute inset-0 bg-white shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
+                        <div class="hidden md:block absolute inset-0 bg-white shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-0 sm:rounded-3xl"></div>
+                        <div class="hidden md:block absolute inset-0 bg-white shadow-lg transform -skew-y-6 sm:skew-y-0 sm:rotate-6 sm:rounded-3xl"></div>
+                        <div class="flex flex-col relative bg-gray-100 shadow-2xl  sm:rounded-3xl sm:p-10 scale-up-center">
                             <img src="img/system.png" class="mb-3 w-12 h-12 mx-auto my-0">
                             <p class="font-kanit text-center text-lg text-blue-900">Desenvolvimento de Sistemas</p>
                             <p class="font-kanit text-center text-gray-500">Desenvolvimento e integração de software, auxiliando também nas decisões referentes à infraestrutura de aplicações</p>
@@ -30,17 +37,17 @@
             
                 <div class="py-6 flex sm:py-12">
                     <div class="relative py-3 sm:max-w-sm sm:mx-auto transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                        <div class="hidden md:block absolute inset-0 bg-gradient-to-r from-cyan-400 to-light-blue-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
-                        <div class="hidden md:block absolute inset-0 bg-gradient-to-l from-cyan-400 to-blue-light-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-0 sm:rounded-3xl"></div>
-                        <div class="hidden md:block absolute inset-0 bg-gradient-to-l from-cyan-400 to-blue-light-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:rotate-6 sm:rounded-3xl"></div>
-                        <div class="flex flex-col relative bg-white shadow-lg sm:rounded-3xl sm:p-10 scale-up-center">
+                        <div class="hidden md:block absolute inset-0 bg-white shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
+                        <div class="hidden md:block absolute inset-0 bg-white shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-0 sm:rounded-3xl"></div>
+                        <div class="hidden md:block absolute inset-0 bg-white shadow-lg transform -skew-y-6 sm:skew-y-0 sm:rotate-6 sm:rounded-3xl"></div>
+                        <div class="flex flex-col relative bg-gray-100 shadow-2xl  sm:rounded-3xl sm:p-10 scale-up-center">
                             <img src="img/box.png" class="mb-3 w-12 h-12 mx-auto my-0">
                             <p class="font-kanit text-center text-lg text-blue-900">Criamos Sistemas Sob medida</p>
                             <p class="font-kanit text-center text-gray-500">Precisa de um sistema com funcionalidades específicas ? esse é o lugar certo.</p>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
 
         <div id="servicosID" class="flex flex-col md:flex md:flex-row mx-auto my-0 w-full">
@@ -49,14 +56,14 @@
                     <div class="w-1/2">
                         <img src="img/office1.png" class="">
                     </div>
-                    <div class="flex flex-col w-1/2  text-center font-kanit text-gray-100 px-2">
+                    <div class="flex flex-col w-1/2  text-center font-kanit text-gray-100 px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                         <p class="font-bold text-4xl">Criação de Sistemas e sites que cabem no seu bolso</p>
                         <p class="text-2xl">Temos os melhores valores para o seu negócio crescer com a ajuda da tecnologia, nos orgulhamos em oferecer um serviço de qualidade e preços que buscam caber dentro do orçamento de negócios de pequenas e médias empresas.</p>
                     </div>
                 </div>
 
                 <div class="flex items-center slide-in-right">
-                    <div class="flex flex-col w-1/2  text-center font-kanit text-black px-2">
+                    <div class="flex flex-col w-1/2  text-center font-kanit text-black px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                         <p class="font-bold text-4xl">Desenvolvimento de Sites para todas as plataformas</p>
                         <p class="text-2xl">Desenvolvemos todos os tipos de sites, do mais simples ao mais complexo sempre buscando o equilíbrio entre desempenho e design para que o usuário tenha a melhor experiència possível.</p>
                     </div>
@@ -69,14 +76,14 @@
                     <div class="w-1/2">
                         <img src="img/office3.jpg" class="">
                     </div>
-                    <div class="flex flex-col w-1/2  text-center font-kanit text-gray-100 px-2">
+                    <div class="flex flex-col w-1/2  text-center font-kanit text-gray-100 px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                         <p class="font-bold text-4xl">A qualquer momento e em qualquer lugar seu negócio está online</p>
                         <p class="text-2xl">Todo projeto que desenvolvemos vem com a garantia que você podera acessar em qualquer aparelho que tenha acesso a internet, em qualquer lugar a qualquer momento.</p>
                     </div>
                 </div>
 
                 <div class="flex items-center slide-in-right">
-                    <div class="flex flex-col w-1/2  text-center font-kanit text-black px-2">
+                    <div class="flex flex-col w-1/2  text-center font-kanit text-black px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                         <p class="font-bold text-4xl">Suporte 24hrs 7dias da semana, você nunca está sozinho</p>
                         <p class="text-2xl">Garantimos suporte a todo momento sempre junto de você, queremos te mostrar como é fácil atravez da nossa plataforma solucionar qualquer problema.</p>
                     </div>

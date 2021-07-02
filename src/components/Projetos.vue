@@ -41,8 +41,17 @@
                             </div>
                         </div>
 
-                        <div class="text-center md:ml-9">
-                            <p class="font-poppins font-semibold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Laborum cupidatat in aute enim laboris occaecat. Eu nulla adipisicing aliqua dolor occaecat. Qui magna minim cupidatat aliqua sint sunt deserunt consequat est fugiat. Amet anim Lorem culpa sit Lorem pariatur ea ullamco. Sit Lorem ullamco voluptate eiusmod aliqua officia do occaecat cupidatat ad fugiat. Veniam reprehenderit dolore exercitation voluptate dolor in deserunt ad dolor velit ex. Nostrud incididunt eu est exercitation aute do cillum.</p>
+                        <div class="flex flex-col text-center md:ml-9 font-poppins font-semibold">
+                            <div class="text-sm pb-2">
+                                <p class="text-green-800">Principais Funções:</p>
+                                <p class="text-blue-800">1: Adição e controle das despesas e receitas mensais</p>
+                                <p class="text-blue-800">2: Geração de relatórios mensais e anuais de cada operação </p>
+                                <p class="text-blue-800">3: Gráficos responsivos de acordo com os dados</p>
+                                <p class="text-blue-800">4: Disponível para Computador/Celular/Tablet</p>
+                            </div>
+                            <p class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                                Nosso sistema mais recente, desenvolvido com o objetivo de automatizar todo o processo de fluxo de caixa e controle de finanças do nosso cliente.
+                            </p>
                         </div>
 
                     </div>

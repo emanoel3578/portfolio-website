@@ -16,18 +16,18 @@
                         <img src="img/office1.png" class="md:w-3/4">
                     </div>
                     <div class="flex flex-col md:w-1/2  text-center font-kanit text-gray-100 p-4 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                        <p class="font-bold text-2xl md:text-4xl">Criação de Sistemas e sites que cabem no seu bolso</p>
-                        <p class="text-lg md:text-2xl">Temos os melhores valores para o seu negócio crescer com a ajuda da tecnologia, nos orgulhamos em oferecer um serviço de qualidade e preços que buscam caber dentro do orçamento de negócios de pequenas e médias empresas.</p>
+                        <p class="font-bold text-2xl md:text-4xl md:w-3/4 mx-auto my-0">Criação de Sistemas e sites que cabem no seu bolso</p>
+                        <p class="text-lg md:text-2xl md:w-3/4 mx-auto my-0">Temos os melhores valores para o seu negócio crescer com a ajuda da tecnologia, nos orgulhamos em oferecer um serviço de qualidade e preços que buscam caber dentro do orçamento de negócios de pequenas e médias empresas.</p>
                     </div>
                 </div>
 
-                <div class="flex flex-col-reverse items-center md:flex md:flex-row slide-in-right">
-                    <div class="flex flex-col md:w-1/2  text-center font-kanit text-black p-4 md:px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                        <p class="font-bold text-2xl md:text-4xl">Desenvolvimento de Sites para todas as plataformas</p>
-                        <p class="text-lg md:text-2xl">Desenvolvemos todos os tipos de sites, do mais simples ao mais complexo sempre buscando o equilíbrio entre desempenho e design para que o usuário tenha a melhor experiència possível.</p>
+                <div class="flex flex-col-reverse right-0 items-center md:flex md:flex-row slide-in-right">
+                    <div class="flex flex-col md:w-3/4  text-center font-kanit text-black p-4 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                        <p class="font-bold text-2xl md:text-4xl md:w-3/4 mx-auto my-0">Desenvolvimento de Sites para todas as plataformas</p>
+                        <p class="text-lg md:text-2xl md:w-3/4 mx-auto my-0">Desenvolvemos todos os tipos de sites, aplicativos ou programas do mais simples ao mais complexo sempre buscando o equilíbrio entre desempenho e design para que o usuário tenha a melhor experiència possível.</p>
                     </div>
-                    <div class="md:w-1/2">
-                        <img src="img/office2.jpg" class="md:w-3/4">
+                    <div class="w-2/4">
+                        <img src="img/office2.jpg" class="">
                     </div>
                 </div>
 
@@ -36,18 +36,18 @@
                         <img src="img/office3.jpg" class="md:w-3/4">
                     </div>
                     <div class="flex flex-col md:w-1/2 text-center font-kanit text-gray-100 p-4 md:pr-5 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                        <p class="font-bold text-2xl md:text-4xl">A qualquer momento e em qualquer lugar seu negócio está online</p>
-                        <p class="text-lg md:text-2xl">Todo projeto que desenvolvemos vem com a garantia que você podera acessar em qualquer aparelho que tenha acesso a internet, em qualquer lugar a qualquer momento.</p>
+                        <p class="font-bold text-2xl md:text-4xl md:w-3/4 mx-auto my-0">A qualquer momento e em qualquer lugar seu negócio está online</p>
+                        <p class="text-lg md:text-2xl md:w-3/4 mx-auto my-0">Todo projeto que desenvolvemos vem com a garantia que você podera acessar em qualquer aparelho que tenha acesso a internet, em qualquer lugar a qualquer momento.</p>
                     </div>
                 </div>
 
                 <div class="flex flex-col-reverse md:flex md:flex-row items-center slide-in-right">
-                    <div class="flex flex-col md:w-1/2  text-center font-kanit text-black p-4 md:px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                        <p class="font-bold text-2xl md:text-4xl">Suporte 24hrs 7dias da semana, você nunca está sozinho</p>
-                        <p class="text-lg md:text-2xl">Garantimos suporte a todo momento sempre junto de você, queremos te mostrar como é fácil atravez da nossa plataforma solucionar qualquer problema.</p>
+                    <div class="flex flex-col md:w-3/4 text-center font-kanit text-black p-4 md:px-10 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                        <p class="font-bold text-2xl md:text-4xl md:w-3/4 mx-auto my-0">Suporte 24hrs 7dias da semana, você nunca está sozinho</p>
+                        <p class="text-lg md:text-2xl md:w-3/4 mx-auto my-0">Garantimos suporte a todo momento sempre junto de você, queremos te mostrar como é fácil atravez da nossa plataforma solucionar qualquer problema.</p>
                     </div>
-                    <div class="md:w-1/2">
-                        <img src="img/office4.jpg" class="md:w-3/4">
+                    <div class="md:w-2/4">
+                        <img src="img/office4.jpg" class="">
                     </div>
                 </div>
             </div>

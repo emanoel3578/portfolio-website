@@ -56,9 +56,9 @@
                                 </div>
 
                                 <div class="flex justify-center ml-2">
-                                    <p class="p-2 font-kanit rounded-3xl bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
+                                    <a href="https://frontfinancastrial.web.app" class="p-2 font-kanit rounded-3xl bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
                                         Visitar projeto
-                                    </p>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -92,11 +92,11 @@
                                 <div class="text-center text-3xl">
                                     <p class="font-kanit text-blue-900 font-semibold ">Galaxy Studios</p>
                                 </div>
-                                <div class="flex justify-center ml-2">
+                                <!-- <div class="flex justify-center ml-2">
                                     <p class="p-2 font-kanit rounded-3xl bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
                                         Visitar projeto
                                     </p>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
 
@@ -131,9 +131,9 @@
                                 </div>
 
                                 <div class="flex justify-center items-center ml-2">
-                                    <p class="p-1 md:p-2 text-center font-kanit rounded-3xl bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
+                                    <a href="https://financasseubeto.web.app" class="p-1 md:p-2 text-center font-kanit rounded-3xl bg-gray-800 text-white border-3 border-gray-100 bg-gradient-to-r hover:from-blue-500 hover:to-purple-400 hover:text-white cursor-pointer shadow-lg">
                                         Visitar projeto
-                                    </p>
+                                    </a>
                                 </div>
                             </div>
                         </div>

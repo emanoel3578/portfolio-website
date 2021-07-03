@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="">
-            <div class="flex bg-white font-kanit py-10 md:py-20">
+            <div id="servicosID" class="flex bg-white font-kanit py-10 md:py-20">
                 <div class="flex flex-col mx-auto my-0 text-center font-semibold text-gray-600 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                     <p class="text-lg md:text-3xl">AGÊNCIA DIGITAL E MARKETING ONLINE</p>
                     <p class="text-2xl md:text-4xl">SOBRE A FRONT TECH</p>
@@ -9,7 +9,7 @@
             </div>
         </div>
 
-        <div id="servicosID" class="flex flex-col md:flex md:flex-row mx-auto my-0 w-full">
+        <div class="flex flex-col md:flex md:flex-row mx-auto my-0 w-full">
             <div class="flex flex-col mx-auto my-0">
                 <div class="flex flex-col md:flex md:flex-row items-center bg-blue-500 slide-in-left">
                     <div class="md:w-1/2">

@@ -23,9 +23,9 @@
             </div>
         </div>
     </div>
-    <div class="flex flex-col-reverse md:flex md:items-center md:flex-row md:px-40 md:pt-20 text-center text-white md:justify-between font-kanit">
+    <div class="flex flex-col-reverse md:flex md:items-center md:flex-row md:px-40 md:pt-20 text-center text-white md:justify-between font-poppins font-bold ">
         <div class="h-full md:w-2/4 relative pt-20 pb-10 md:py-0 md:slide-top">
-            <p class="hidden md:block md:text-4xl sm:text-sm transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Quer impulsionar o seu negócio até o infinito ? 🚀</p>
+            <p class="hidden md:block md:text-4xl md:pb-5 sm:text-sm transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Quer impulsionar o seu negócio ? 🚀</p>
             <p class="hidden md:block mx-auto my-0 w-3/4 text-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Somos uma empresa que está a dois anos no mercado de tecnologias, trazendo tudo do que a de mais novo para empresas de média, pequena e larga escala. Nossa equipe está disposta a mudar a forma como seu négocio funciona para que seu redimento cresca em até 500%.</p>
             <p class="md:hidden text-5xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Venha mudar seu Negócio ! 🚀</p>
             <p class="md:hidden w-5/6 mx-auto my-0 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">Somos uma empresa que está a dois anos no mercado de tecnologias, trazendo tudo do que a de mais novo para empresas de média, pequena e larga escala. Nossa equipe está disposta a mudar a forma como seu négocio funciona para que seu redimento cresca em até 500%.</p>

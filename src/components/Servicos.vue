@@ -26,7 +26,7 @@
                         <p class="font-bold text-2xl md:text-4xl md:w-3/4 mx-auto my-0">Desenvolvimento de Sites para todas as plataformas</p>
                         <p class="text-lg md:text-2xl md:w-3/4 mx-auto my-0">Desenvolvemos todos os tipos de sites, aplicativos ou programas do mais simples ao mais complexo sempre buscando o equilíbrio entre desempenho e design para que o usuário tenha a melhor experiència possível.</p>
                     </div>
-                    <div class="w-2/4">
+                    <div class="md:w-2/4">
                         <img src="img/office2.jpg" class="">
                     </div>
                 </div>

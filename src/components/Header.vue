@@ -37,6 +37,11 @@
             <img src="img/brain.png" class="md:animate-bounce">
         </div>
     </div>
+
+    <div @click="closeOrcamento()" class="cursor-pointer fixed flex bottom-5 right-2 md:bottom-10 md:right-10 z-10 animate-pulse">
+        <img src="img/whatsapp.png" class="filter blur-lg">
+        <img src="img/whatsapp.png" class="fixed">
+    </div>
 </template>
 
 <script>

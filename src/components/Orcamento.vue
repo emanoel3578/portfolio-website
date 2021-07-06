@@ -4,7 +4,7 @@
             <div class="fixed z-10 inset-0 bg-black opacity-50 mx-auto my-0"></div>
             <div class="fixed z-10 top-14 md:inset-y-1/4 md:inset-x-1/3">
                 <div class="bg-gray-100 text-gray-500 rounded-3xl shadow-xl w-full overflow-hidden" style="max-width:1000px">
-                    <div class="flex pl-5 pt-2 bg-indigo-500 " style="width: 35%;">
+                    <div class="flex pl-5 pt-2 md:bg-indigo-500 bg-gradient-to-r from-indigo-500" style="width: 35%;">
                         <p class="text-5xl text-white cursor-pointer" @click="closeOrcamento()">X</p>
                     </div>
                     <div class="md:flex w-full">
@@ -17,46 +17,48 @@
                                 <p class="text-gray-600">Preencha os dados abaixo para que um de nossos especialistas possa preparar uma proposta personalizada para seu tipo de negócio</p>
                             </div>
                             <div>
-                                <div class="flex -mx-3">
-                                    <div class="w-1/2 px-3 mb-5">
-                                        <label for="" class="text-sm px-1 text-indigo-500">Nome*</label>
-                                        <div class="flex">
-                                            <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center"><i class="mdi mdi-account-outline text-gray-400 text-lg"></i></div>
-                                            <input type="text" class="w-full -ml-10 pl-10 pr-3 py-2 rounded-lg border-2 border-gray-200 outline-none focus:border-indigo-500" placeholder="Carlos">
+                                <form id="javascript_form" v-on:submit.prevent="onSubmit">
+                                    <div class="flex -mx-3">
+                                        <div class="w-1/2 px-3 mb-5">
+                                            <label for="" class="text-sm px-1 text-indigo-500">Nome*</label>
+                                            <div class="flex">
+                                                <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center"><i class="mdi mdi-account-outline text-gray-400 text-lg"></i></div>
+                                                <input required type="text" v-model="name" class="w-full -ml-10 pl-10 pr-3 py-2 rounded-lg border-2 border-gray-200 outline-none focus:border-indigo-500" placeholder="Carlos">
+                                            </div>
+                                        </div>
+                                        <div class="w-1/2 px-3 mb-5">
+                                            <label for="" class="text-sm px-1 text-indigo-500">Sobrenome*</label>
+                                            <div class="flex">
+                                                <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center"><i class="mdi mdi-account-outline text-gray-400 text-lg"></i></div>
+                                                <input required type="text" v-model="surname" class="w-full -ml-10 pl-10 pr-3 py-2 rounded-lg border-2 border-gray-200 outline-none focus:border-indigo-500" placeholder="Souza">
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="w-1/2 px-3 mb-5">
-                                        <label for="" class="text-sm px-1 text-indigo-500">Sobrenome*</label>
-                                        <div class="flex">
-                                            <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center"><i class="mdi mdi-account-outline text-gray-400 text-lg"></i></div>
-                                            <input type="text" class="w-full -ml-10 pl-10 pr-3 py-2 rounded-lg border-2 border-gray-200 outline-none focus:border-indigo-500" placeholder="Souza">
+                                    <div class="flex -mx-3">
+                                        <div class="w-full px-3 mb-5">
+                                            <label for="" class="text-sm px-1 text-indigo-500">Email</label>
+                                            <div class="flex">
+                                                <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center"><i class="mdi mdi-email-outline text-gray-400 text-lg"></i></div>
+                                                <input required type="email" v-model="email" class="w-full -ml-10 pl-5 pr-3 py-2 rounded-lg border-2 border-gray-200 outline-none focus:border-indigo-500" placeholder="fronttechsuporte@gmail.com">
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="flex -mx-3">
-                                    <div class="w-full px-3 mb-5">
-                                        <label for="" class="text-sm px-1 text-indigo-500">Email</label>
-                                        <div class="flex">
-                                            <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center"><i class="mdi mdi-email-outline text-gray-400 text-lg"></i></div>
-                                            <input type="email" class="w-full -ml-10 pl-5 pr-3 py-2 rounded-lg border-2 border-gray-200 outline-none focus:border-indigo-500" placeholder="fronttechsuporte@gmail.com">
+                                    <div class="flex -mx-3">
+                                        <div class="w-full px-3 mb-12">
+                                            <label for="" class="text-sm px-1 text-indigo-500">Numero:</label>
+                                            <div class="flex">
+                                                <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center"><i class="mdi mdi-lock-outline text-gray-400 text-lg"></i></div>
+                                                <input required type="number" v-model="numero" class="w-full -ml-10 pl-10 pr-3 py-2 rounded-lg border-2 border-gray-200 outline-none focus:border-indigo-500" placeholder="869999999">
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="flex -mx-3">
-                                    <div class="w-full px-3 mb-12">
-                                        <label for="" class="text-sm px-1 text-indigo-500">Numero:</label>
-                                        <div class="flex">
-                                            <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center"><i class="mdi mdi-lock-outline text-gray-400 text-lg"></i></div>
-                                            <input type="number" class="w-full -ml-10 pl-10 pr-3 py-2 rounded-lg border-2 border-gray-200 outline-none focus:border-indigo-500" placeholder="869999999">
+                                    <div class="flex -mx-3">
+                                        <div class="w-full px-3 mb-5">
+                                            <button id="js_send" value="Send" @click="enviadoOrcamento()" class="block w-full max-w-xs mx-auto bg-indigo-500 hover:bg-indigo-700 focus:bg-indigo-700 text-white rounded-lg px-3 py-3">Enviar para especialista !</button>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="flex -mx-3">
-                                    <div class="w-full px-3 mb-5">
-                                        <button class="block w-full max-w-xs mx-auto bg-indigo-500 hover:bg-indigo-700 focus:bg-indigo-700 text-white rounded-lg px-3 py-3">Enviar para especialista !</button>
-                                    </div>
-                                </div>
-                            </div>  
+                                </form>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -70,11 +72,80 @@ export default {
     name:"Orcamento",
     data () {
         return  {
+            name:null,
+            surname:null,
+            email:null,
+            numero:null,
         }
     },
     methods: {
         closeOrcamento () {
             document.getElementById('orcamentoID').className = "invisible"
+        },
+
+        enviadoOrcamento() {
+            var form_id_js = "javascript_form";
+        
+            document.getElementById("js_send").innerHTML = "Enviando..."
+
+            var data_js = {
+                "access_token": "zurolvguo4dewrdjjx1tfv47"
+            };
+
+            var sendButton = document.getElementById("js_send");
+
+            var message = this.name + " " + " " + this.surname + " " + this.email + " " + this.numero
+
+            function js_send() {
+                sendButton.value='Sending…';
+                sendButton.disabled=true;
+                var request = new XMLHttpRequest();
+                request.onreadystatechange = function() {
+                    if (request.readyState == 4 && request.status == 200) {
+                        console.log("Email enviado com sucesso")
+                        document.getElementById("js_send").innerHTML = "Enviando com sucesso !"
+                        this.name = ""
+                        this.surname = ""
+                        this.email = ""
+                        this.numero = ""
+                    } else
+                    if(request.readyState == 4) {
+                        document.getElementById("js_send").innerHTML = "Por favor tente novamente"
+                    }
+                };
+
+                var subject = "Novo Usuário"
+                data_js['subject'] = subject;
+                data_js['text'] = message;
+                var params = toParams(data_js);
+
+                request.open("POST", "https://postmail.invotes.com/send", true);
+                request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+
+                request.send(params);
+
+                return false;
+            }
+            
+            if(this.name == null || this.surname == null || this.email == null || this.numero == null) {
+                document.getElementById("js_send").innerHTML = "Preencha todos os campos acima"
+            }else {
+                sendButton.onclick = js_send
+            }
+
+            function toParams(data_js) {
+                var form_data = [];
+                for ( var key in data_js ) {
+                    form_data.push(encodeURIComponent(key) + "=" + encodeURIComponent(data_js[key]));
+                }
+
+                return form_data.join("&");
+            }
+
+            var js_form = document.getElementById(form_id_js);
+            js_form.addEventListener("submit", function (e) {
+                e.preventDefault();
+            });
         }
     }
 }

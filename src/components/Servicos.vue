@@ -13,11 +13,16 @@
             <div class="flex flex-col mx-auto my-0">
                 <div class="flex flex-col md:flex md:flex-row items-center bg-blue-500 slide-in-left">
                     <div class="md:w-1/2">
-                        <img src="img/office1.png" class="md:w-3/4">
+                        <!-- <img src="img/office1.png" class="md:w-3/4"> -->
+                        <div class="md:mx-auto md:my-0 md:w-2/5">
+                          <video controls autoplay muted loop>
+                            <source src="videos/bot2_blur.mp4" type="video/mp4">
+                          </video>
+                        </div>
                     </div>
                     <div class="flex flex-col md:w-1/2  text-center font-kanit text-gray-100 p-4 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                         <p class="font-bold text-2xl md:text-4xl md:w-3/4 mx-auto my-0">Criação de Sistemas e sites que cabem no seu bolso</p>
-                        <p class="text-lg md:text-2xl md:w-3/4 mx-auto my-0">Temos os melhores valores para o seu negócio crescer com a ajuda da tecnologia, nos orgulhamos em oferecer um serviço de qualidade e preços que buscam caber dentro do orçamento de negócios de pequenas e médias empresas.</p>
+                        <p class="text-lg md:text-2xl md:w-3/4 mx-auto my-0">Temos os melhores valores para o seu negócio crescer com a ajuda da tecnologia, ao lado temos um chat automatizado para atender todos os tipos de negócios como, Loja de roupas, Delivery, Consultorios, Firmas e qualquer negócio que usa whatsapp.</p>
                     </div>
                 </div>
 

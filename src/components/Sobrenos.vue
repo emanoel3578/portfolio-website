@@ -32,7 +32,7 @@
 
                     <div class="md:mx-20 flex flex-col">
                         <div class="flex transition duration-500 ease-in-out transform hover:-translate-y-2 hover:scale-110">
-                            <img src="img/manel.jpg" class="border-4 rounded-full border-white w-20 md:w-auto">
+                            <img src="img/fael_resized.jpeg" class="border-4 rounded-full border-white w-20 md:w-auto">
                         </div>
                         <div class="flex justify-center pt-2">
                             <img src="img/star.png">
